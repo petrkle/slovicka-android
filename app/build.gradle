@@ -1,0 +1,83 @@
+apply plugin: 'com.android.application'
+apply plugin: 'org.ajoberstar.grgit'
+
+ext {
+	gitVersionName = grgit.describe()
+	dirty = !grgit.status().clean
+	if(dirty) gitVersionName = gitVersionName + '-dirty'
+	gitVersionCode = grgit.log().size()
+}
+
+
+task printVersionName() {
+    println("$gitVersionName")
+}
+
+android {
+    defaultConfig {
+        versionName "${gitVersionName}"
+    }
+}
+
+android {
+    compileSdkVersion 28
+    buildToolsVersion "28.0.0"
+    defaultConfig {
+        applicationId "cz.kle.slovicka"
+        minSdkVersion 21
+        targetSdkVersion 28
+        versionCode gitVersionCode
+        versionName "${gitVersionName}"
+				setProperty("archivesBaseName", "Slovicka-$versionName")
+    }
+		signingConfigs {
+        release
+    }
+    buildTypes {
+        release {
+            minifyEnabled false
+						signingConfig signingConfigs.release
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+        }
+    }
+}
+
+dependencies {
+    implementation fileTree(dir: 'libs', include: ['*.jar'])
+		implementation 'com.android.support:appcompat-v7:27.1.1'
+}
+
+task generate(type: Exec, dependsOn: ['generateIcons']) {
+    commandLine 'perl', 'generate.pl'
+		workingDir '..'
+}
+
+task generateIcons(type: Exec) {
+    commandLine 'bash', './icons.sh'
+		workingDir '..'
+}
+
+task customClean(type: Delete) {
+    delete "${projectDir}/../templates_c"
+    delete "${projectDir}/../vendor"
+		delete "src/main/res/mipmap-hdpi"
+		delete "src/main/res/mipmap-mdpi"
+		delete "src/main/res/mipmap-xhdpi"
+		delete "src/main/res/mipmap-xxhdpi"
+		delete "src/main/res/mipmap-xxxhdpi"
+}
+clean.dependsOn customClean
+
+preBuild.dependsOn(generate)
+
+def props = new Properties()
+
+props.load(new FileInputStream("${System.env.HOME}/android-sec/slovicka.properties"))
+
+android.signingConfigs.release.storeFile rootProject.file(props.keyStore)
+
+android.signingConfigs.release.storePassword props.keyStorePassword
+
+android.signingConfigs.release.keyAlias props.keyAlias
+
+android.signingConfigs.release.keyPassword props.keyAliasPassword

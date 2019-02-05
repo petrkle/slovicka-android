@@ -1,0 +1,3797 @@
+Abandon:Opustit
+Abandoned:Opuštěný
+Ability:Schopnost
+Able:Schopný
+About:O
+Above:Výše
+Abroad:Do zahraničí
+Absence:Nepřítomnost
+Absent:Chybět
+Absolute:Absolutní
+Absolutely:Absolutně
+Absorb:Absorbovat
+Abuse:Zneužívání
+Academic:Akademický
+Accent:Přízvuk
+Accept:Přijmout
+Acceptable:Přijatelný
+Access:Přístup
+Accident:Nehoda
+Accidental:Náhodný
+Accidentally:Náhodou
+Accommodation:Ubytování
+Accompany:Doprovázet
+According to:Podle
+Account:Účet
+Account for:Vysvětlit
+Accurate:Přesný
+Accurately:Přesně
+Accuse:Obvinit
+Achieve:Dosáhnout
+Achievement:Úspěch
+Acid:Kyselina
+Acknowledge:Potvrdit
+Acquire:Získat
+Across:Přes
+Act:Akt
+Action:Akce
+Active:Aktivní
+Actively:Aktivně
+Activity:Aktivita
+Actor:Herec
+Actress:Herečka
+Actual:Aktuální
+Actually:Vlastně
+Ad:Inzerát
+Adapt:Přizpůsobit
+Add:Přidat
+Addition:Dodatek
+Additional:Dodatečný
+Add on:Přidat
+Address:Adresa
+Add up:Přidat
+Add up to:Přidat k
+Adequate:Odpovídající
+Adequately:Přiměřeně
+Adjust:Upravit
+Admiration:Obdiv
+Admire:Obdivovat
+Admit:Připustit
+Adopt:Přijmout
+Adult:Dospělý
+Advance:Záloha
+Advanced:Pokročilý
+Advantage:Výhoda
+Adventure:Dobrodružství
+Advert:Inzerát
+Advertise:Inzerovat
+Advertisement:Reklama
+Advertising:Reklamní
+Advice:Rada
+Advise:Radit, podat zprávu
+Affair:Záležitost
+Affect:Postihnout
+Affection:Náklonnost
+Afford:Dovolit si
+Afraid:Strach
+After:Po
+Afternoon:Odpoledne
+Afterwards:Později
+Again:Znovu
+Against:Proti
+Age:Stáří
+Aged:Letitý
+Agency:Agentura
+Agent:Zástupce
+Aggressive:Agresivní
+Ago:Před
+Agree:Souhlasit
+Agreement:Dohoda
+Ahead:Vpřed
+Aid:Pomoc
+Aim:Cíl
+Air:Vzduch
+Aircraft:Letadlo
+Airport:Letiště
+Alarm:Poplach
+Alarmed:Alarmován
+Alarming:Alarmující
+Alcohol:Alkohol
+Alcoholic:Alkoholik
+Alive:Naživu
+All:Všechno
+Allied:Spojenectví
+Allow:Dovolit
+Allow for:Umožnit
+All right:Dobře
+Ally:Spojenec
+Almost:Téměř
+Alone:Sama
+Along:Podél
+Alongside:Vedle
+Aloud:Nahlas
+Alphabet:Abeceda
+Alphabetical:Abecední
+Alphabetically:Abecedně
+Already:Již
+Also:Také
+Alter:Změnit
+Alternative:Alternativní
+Alternatively:Alternativně
+Although:Ačkoli
+Altogether:Celkem
+Always:Vždy
+AM:Dopoledne
+Amaze:Ohromit
+Amazed:Ohromen
+Amazing:Úžasný
+Ambition:Ctižádost
+Ambulance:Záchranná služba
+Among:Mezi
+Amount:Množství
+Amount to:Rovnat se čemu
+Amuse:Bavit
+Amused:Pobavený
+Amusing:Zábavný
+Analyse:Analyzovat
+Analysis:Analýza
+Ancient:Starověký
+And:A
+Anger:Hněv
+Angle:Úhel
+Angrily:Rozzlobeně
+Angry:Rozzlobený
+Animal:Zvíře
+Ankle:Kotník
+Anniversary:Výročí
+Announce:Oznámit
+Annoy:Otravovat
+Annoyed:Naštvaný
+Annoying:Nepříjemný
+Annual:Roční
+Annually:Každoročně
+Another:Další
+Answer:Odpovědět
+Anti-:Proti-
+Anticipate:Předvídat
+Anxiety:Úzkost
+Anxious:Úzkostlivý
+Anxiously:Úzkostlivě
+Any:Nějaký
+Anybody:Někdo
+Anyone:Kdokoliv
+Anything:Cokoliv
+Anyway:Tak jako tak
+Anywhere:Kdekoli
+Apart:Odděleně
+Apart from:Na rozdíl od
+Apartment:Byt
+Apologize:Omlouvat se
+Apparent:Zdánlivý
+Apparently:Podle všeho
+Appeal:Žádost
+Appear:Jevit
+Appearance:Vzhled
+Apple:Jablko
+Application:Přihláška
+Apply:Přihlásit se
+Appoint:Jmenovat
+Appointment:Jmenování
+Appreciate:Cenit si
+Approach:Přístup
+Appropriate:Odpovídající
+Approval:Odsouhlasení
+Approve:Schválit
+Approving:Schvalování
+Approximate:Přibližný
+Approximately:Přibližně
+April:Duben
+Area:Plocha
+Argue:Dohadovat se
+Argument:Důvod
+Arise:Vzniknout
+Arm:Paže
+Armed:Ozbrojený
+Arms:Zbraně
+Army:Armáda
+Around:Kolem
+Arrange:Uspořádat
+Arrangement:Uspořádání
+Arrest:Zatknout
+Arrival:Příchod
+Arrive:Přijet
+Arrive at:Dorazit v
+Arrow:Šipka
+Art:Umění
+Article:Článek
+Artificial:Umělý
+Artificially:Uměle
+Artist:Umělec
+Artistic:Umělecký
+Artistically:Umělecky
+As:Tak jako
+Ashamed:Zahanbený
+Aside:Stranou
+Aside from:Vedle
+Ask:Dotázat se
+Asleep:Spící
+Aspect:Aspekt
+Assist:Pomoci
+Assistance:Pomoc
+Assistant:Asistent
+Associate:Vybavit si
+Associated:Spojené
+Association:Sdružení
+Assume:Převzít
+Assure:Ujistit
+At:Na
+Atmosphere:Atmosféra
+Attach:Připojit
+Attached:Připojený
+Attack:Útok
+Attempt:Pokus
+Attempted:Pokusil se
+Attend:Zúčastnit se
+Attend to:Účastnit se
+Attention:Pozor
+Attitude:Přístup
+Attorney:Advokát
+Attract:Přilákat
+Attraction:Atrakce
+Attractive:Přitažlivý
+Audience:Publikum
+August:Srpen
+Aunt:Teta
+Author:Autor
+Authority:Pravomoc
+Automatic:Automatický
+Automatically:Automaticky
+Autumn:Podzim
+Available:Dostupný
+Average:Průměrný
+Avoid:Vyhýbat se
+Awake:Probudit
+Award:Cena
+Aware:Vědomě
+Away:Pryč
+Awful:Hrozný
+Awfully:Strašně
+Awkward:Nepříjemné
+Awkwardly:Divně
+Baby:Dítě
+Back:Zadní
+Background:Pozadí
+Back up:Zálohovat
+Backward:Zpět
+Backwards:Dozadu
+Bacteria:Bakterie
+Bad:Špatný
+Badly:Špatně
+Bad-tempered:Mrzutý
+Bag:Taška
+Baggage:Zavazadla
+Bake:Upéct
+Balance:Zůstatek
+Ball:Míč
+Ban:Zákaz
+Band:Kapela
+Bandage:Obvaz
+Bank:Banka
+Bargain:Výhodná koupě
+Barrier:Bariéra
+Base:Báze
+Based:Na základě
+Base on:Založit na
+Basic:Základní
+Basically:V podstatě
+Basis:Základ
+Bath:Koupel
+Bathroom:Koupelna
+Battery:Baterie
+Battle:Bitva
+Bay:Záliv
+Be:Být
+Beach:Pláž
+Beak:Zobák
+Bear:Medvěd
+Beard:Vousy
+Beat:Porazit
+Beat up:Zmlátit
+Beautiful:Krásná
+Beautifully:Krásně
+Beauty:Krása
+Because:Protože
+Because of:Kvůli
+Become:Stát
+Bed:Postel
+Bedroom:Ložnice
+Beef:Hovězí
+Beer:Pivo
+Before:Před
+Begin:Začít
+Beginning:Začátek
+Behalf:Jménem
+Behave:Chovat se
+Behaviour:Chování
+Behind:Za
+Be left over:Zůstat
+Belief:Víra
+Believe:Věřím
+Believe in:Věřit v
+Bell:Zvonek
+Belong:Patřit
+Belong to:Patřit k
+Below:Níže
+Belt:Pás
+Bend:Ohyb
+Beneath:Pod
+Benefit:Výhoda
+Bent:Ohnutý
+Beside:Vedle
+Best:Nejlepší
+Bet:Sázka
+Better:Lepší
+Betting:Sázení
+Between:Mezi
+Beyond:Mimo
+Bicycle:Jízdní kolo
+Bid:Nabídka
+Big:Velký
+Bike:Kolo
+Bill:Účet
+Billion:Miliarda
+Bin:Zásobník
+Biology:Biologie
+Bird:Pták
+Birth:Narození
+Birthday:Narozeniny
+Biscuit:Sušenka
+Bit:Kousek
+Bite:Kousat
+Bitter:Hořké
+Bitterly:Hořce
+Black:Černá
+Blade:Čepel
+Blame:Obviňovat
+Blank:Prázdný
+Blind:Slepý
+Block:Blok
+Blonde:Blondýnka
+Blood:Krev
+Blow:Rána
+Blow out:Vyfouknout
+Blow up:Vybuchnout
+Blue:Modrý
+Board:Deska
+Boat:Loď
+Body:Tělo
+Boil:Vařit
+Bomb:Bomba
+Bone:Kost
+Book:Rezervovat
+Boot:Bota
+Border:Okraj
+Bore:Otvor
+Bored:Znuděný
+Boring:Nudný
+Born:Narozený
+Borrow:Půjčit si
+Boss:Šéf
+Both:Oba
+Bother:Obtěžovat
+Bottle:Láhev
+Bottom:Dno
+Bound:Vázaný
+Bowl:Miska
+Box:Krabice
+Boy:Chlapec
+Boyfriend:Přítel
+Brain:Mozek
+Branch:Větev
+Brand:Značka
+Brave:Statečný
+Bread:Chléb
+Break:Přestávka
+Break down:Zhroutit se
+Breakfast:Snídaně
+Break in:Vloupat se
+Break into:Vloupat se do
+Break off:Odlomit
+Break out:Vypuknout
+Break up:Rozchod
+Breast:Prsa
+Breath:Dech
+Breathe:Dýchat
+Breathe in:Nadechnout
+Breathe out:Vydechnout
+Breathing:Dýchání
+Breed:Plemeno
+Brick:Cihlový
+Bridge:Most
+Brief:Stručný
+Briefly:Krátce
+Bright:Jasný
+Brightly:Zářivě
+Brilliant:Brilantní
+Bring:Přinést
+Bring back:Přinést zpět
+Bring down:Srazit
+Bring forward:Předložit
+Bring out:Vyvést
+Bring up:Vychovat
+Broad:Široký
+Broadcast:Přenos
+Broadly:Široce
+Broken:Zlomený
+Brother:Bratr
+Brown:Hnědý
+Brush:Štětec
+Bubble:Bublina
+Budget:Rozpočet
+Build:Stavět
+Building:Budova
+Build up:Vybudovat
+Bullet:Kulka
+Bunch:Chomáč
+Burn:Hořet
+Burn down:Shořet
+Burnt:Spálený
+Burst:Výbuch
+Burst into:Vtrhnout do
+Burst out:Vyprsknout
+Bury:Pohřbít
+Bus:Autobus
+Bush:Keř
+Business:Podnikání
+Businessman:Podnikatel
+Busy:Zaneprázdněný
+But:Ale
+Butter:Máslo
+Button:Tlačítko
+Buy:Koupit
+Buyer:Kupující
+By:Podle
+Bye:Sbohem
+Cabinet:Skříň
+Cable:Kabel
+Cake:Dort
+Calculate:Vypočítat
+Calculation:Výpočet
+Call:Volání
+Call back:Zavolejte zpět
+Called:Volal
+Call for:Volání
+Call off:Odvolat
+Call up:Vyvolat
+Calm:Uklidnit
+Calm down:Zklidni se
+Calmly:Klidně
+Camera:Fotoaparát
+Camp:Tábor
+Campaign:Kampaň
+Camping:Kempování
+Can:Plechovka
+Cancel:Zrušení
+Cancer:Rakovina
+Candidate:Kandidát
+Candy:Bonbón
+Cannot:Nemůže
+Cap:Víčko
+Capable:Schopný
+Capacity:Kapacita
+Capital:Hlavní město
+Captain:Kapitán
+Capture:Zachytit
+Car:Auto
+Card:Karta
+Cardboard:Lepenka
+Care:Péče
+Career:Kariéra
+Care for:Starat se o
+Careful:Opatrně
+Carefully:Opatrně
+Careless:Neopatrný
+Carelessly:Bezstarostně
+Carpet:Koberec
+Carrot:Mrkev
+Carry:Nést
+Carry on:Pokračovat
+Carry out:Vykonat
+Case:Pouzdro
+Cash:Hotovost
+Cast:Obsazení
+Castle:Hrad
+Cat:Kočka
+Catch:Chytit
+Catch up:Dohnat
+Category:Kategorie
+Cause:Způsobit
+Cease:Přestat
+Ceiling:Strop
+Celebrate:Slavit
+Celebration:Oslava
+Cell:Buňka
+Cell phone:Mobilní telefon
+Cent:Setina dolaru
+Centimetre:Centimetr
+Central:Centrální
+Centre:Centrum
+Century:Století
+Ceremony:Obřad
+Certain:Určitý
+Certainly:Rozhodně
+Certificate:Osvědčení
+Chain:Řetěz
+Chair:Židle
+Chairman:Předseda
+Chairwoman:Předsedkyně
+Challenge:Výzva
+Chamber:Komora
+Chance:Šance
+Change:Změna
+Change round:Otočit
+Channel:Kanál
+Chapter:Kapitola
+Character:Charakter
+Characteristic:Charakteristický
+Charge:Nabít
+Charity:Charitativní
+Chart:Graf
+Chase:Honit
+Chase away:Odehnat
+Chat:Povídat si
+Cheap:Levný
+Cheaply:Levně
+Cheat:Ošidit
+Cheat of:Ošidit o
+Check:Kontrola
+Check in:Ubytovat se
+Check into:Zapsat se do
+Check on:Zkontrolovat
+Check out:Odhlásit se
+Check over:Překontrolovat
+Check up on:Zkontrolovat
+Cheek:Tvář
+Cheerful:Veselý
+Cheerfully:Radostně
+Cheese:Sýr
+Chemical:Chemikálie
+Chemist:Chemik
+Chemistry:Chemie
+Cheque:Kontrola
+Chest:Hruď
+Chew:Žvýkat
+Chicken:Kuře
+Chief:Hlavní
+Child:Dítě
+Chin:Brada
+Chip:Čip
+Chocolate:Čokoláda
+Choice:Výběr
+Choose:Vybrat
+Chop:Sekat
+Chop down:Pokácet
+Chop off:Odseknout
+Church:Kostel
+Cigarette:Cigareta
+Cinema:Kino
+Circle:Kruh
+Circumstance:Okolnost
+Citizen:Občan
+City:Město
+Civil:Civilní
+Claim:Pohledávka
+Clap:Tleskat
+Class:Třída
+Classic:Klasický
+Classroom:Třída
+Clean:Čistý
+Clean up:Uklidit
+Clear:Jasný
+Clearly:Jasně
+Clear out:Vyklidit
+Clear up:Vyčistit
+Clerk:Úředník
+Clever:Chytrý
+Click:Kliknout
+Client:Klient
+Climate:Podnebí
+Climb:Stoupání
+Climbing:Horolezectví
+Clock:Hodiny
+Close:Zavřít
+Closed:Zavřeno
+Closely:Úzce
+Closet:Skříň
+Cloth:Látka
+Clothes:Šaty
+Clothing:Oblečení
+Cloud:Mrak
+Club:Klub
+Coach:Trenér
+Coal:Uhlí
+Coast:Pobřeží
+Coat:Kabát
+Code:Kód
+Coffee:Káva
+Coin:Mince
+Cold:Studený
+Coldly:Chladně
+Collapse:Kolaps
+Colleague:Kolega
+Collect:Sbírat
+Collection:Sbírka
+College:Vysoká škola
+Colour:Barva
+Coloured:Barevný
+Column:Sloupec
+Combination:Kombinace
+Combine:Kombinovat
+Come:Přijít
+Come across:Narazit
+Come down:Přijít dolů
+Comedy:Komedie
+Come from:Pocházet z
+Come in:Pojď dovnitř
+Come off:Vypadni
+Come on:Pojď dál
+Come out:Vyjít
+Come round:Stavit se
+Come to:Přijď k
+Come up:Přijít
+Come up to:Přijít k
+Comfort:Pohodlí
+Comfortable:Komfortní
+Comfortably:Pohodlně
+Command:Příkaz
+Comment:Komentář
+Commercial:Komerční
+Commission:Komise
+Commit:Spáchat
+Commitment:Závazek
+Committee:Výbor
+Common:Běžný
+Commonly:Běžně
+Communicate:Komunikovat
+Communication:Sdělení
+Community:Společenství
+Company:Společnost
+Compare:Porovnat
+Comparison:Srovnání
+Compete:Soutěžit
+Competition:Soutěž
+Competitive:Konkurenční
+Complain:Stěžují si
+Complaint:Stížnost
+Complete:Kompletní
+Completely:Zcela
+Complex:Komplex
+Complicate:Komplikovat
+Complicated:Složitý
+Computer:Počítač
+Concentrate:Soustředit se
+Concentrate on:Soustředit se na
+Concentration:Koncentrace
+Concept:Pojem
+Concern:Znepokojení
+Concerned:Znepokojený
+Concerning:Pokud jde o
+Concert:Koncert
+Conclude:Uzavřít
+Conclusion:Závěr
+Concrete:Konkrétní
+Condition:Stav
+Conduct:Chování
+Conference:Konference
+Confidence:Důvěra
+Confident:Sebejistý
+Confidently:S důvěrou
+Confine:Omezit
+Confined:Stísněný
+Confirm:Potvrdit
+Conflict:Konflikt
+Confront:Konfrontovat
+Confuse:Zmást
+Confused:Zmatený
+Confusing:Matoucí
+Confusion:Zmatek
+Congratulate:Blahopřeji
+Congratulation:Blahopřání
+Congress:Kongres
+Connect:Připojit
+Connected:Připojeno
+Connection:Spojení
+Conscious:Vědomí
+Consequence:Následek
+Conservative:Konzervativní
+Consider:Zvážit
+Considerable:Značný
+Considerably:Značně
+Consideration:Úvahy
+Consist:Skládat se
+Consist of:Skládá se z
+Constant:Konstantní
+Constantly:Neustále
+Construct:Postavit
+Construction:Konstrukce
+Consult:Konzultovat
+Consumer:Spotřebitel
+Contact:Kontakt
+Contain:Obsahovat
+Container:Kontejner
+Contemporary:Moderní
+Content:Obsah
+Contest:Soutěž
+Context:Kontext
+Continent:Kontinent
+Continue:Pokračovat
+Continuous:Kontinuální
+Continuously:Nepřetržitě
+Contract:Smlouva
+Contrast:Kontrast
+Contrasting:Kontrastní
+Contribute:Přispět
+Contribution:Příspěvek
+Control:Řízení
+Controlled:Řízen
+Convenient:Pohodlné
+Convention:Konvence
+Conventional:Konvenční
+Conversation:Konverzace
+Convert:Konvertovat
+Convince:Přesvědčit
+Cook:Kuchař
+Cooker:Vařič
+Cookie:Sušenka
+Cooking:Vaření
+Cool:Chladný
+Cool down:Ochladit
+Cope:Zvládnout
+Copy:Kopírovat
+Core:Jádro
+Corner:Roh
+Correct:Opravit
+Correctly:Správně
+Cost:Náklady
+Cottage:Chalupa
+Cotton:Bavlna
+Cough:Kašel
+Coughing:Kašel
+Could:Mohl
+Council:Rada
+Count:Spočítat
+Counter:Čelit
+Count on:Počítej s
+Country:Země
+Countryside:Venkov
+County:Hrabství
+Couple:Pár
+Courage:Odvaha
+Course:Chod
+Court:Soud
+Cousin:Bratranec
+Cover:Pokrýt
+Covered:Pokryté
+Covering:Krytina
+Cover up:Zakrýt
+Cow:Kráva
+Crack:Trhlina
+Cracked:Popraskaný
+Craft:Řemeslo
+Crash:Pád
+Crazy:Šílený
+Cream:Krém
+Create:Vytvořit
+Creature:Stvoření
+Credit:Kredit
+Credit card:Kreditní karta
+Crime:Zločin
+Criminal:Zločinec
+Crisis:Krize
+Crisp:Křupavý
+Criterion:Kritérium
+Critical:Kritické
+Criticism:Kritika
+Criticize:Kritizovat
+Crop:Oříznutí
+Cross:Přejít
+Cross out:Vyškrtnout
+Crowd:Dav
+Crowded:Přeplněný
+Crown:Koruna
+Crucial:Rozhodující
+Cruel:Krutý
+Crush:Rozdrtit
+Cry:Plakat
+Cry out:Vykřiknout
+Cultural:Kulturní
+Culture:Kultura
+Cup:Pohár
+Cupboard:Skříň
+Curb:Omezit
+Cure:Lék
+Curious:Zvědavý
+Curiously:Zvědavě
+Curl:Kučera
+Curl up:Kroutit nahoru
+Curly:Kudrnatý
+Current:Aktuální
+Currently:V současné době
+Curtain:Záclona
+Curve:Křivka
+Curved:Zakřivený
+Custom:Zvyk
+Customer:Zákazník
+Customs:Celnice
+Cut:Střih
+Cut back:Omezit
+Cut down:Uříznout
+Cut off:Odříznout
+Cut out:Vystřihnout
+Cut up:Rozřezat
+Cycle:Cyklus
+Cycling:Cyklistika
+Dad:Táta
+Daily:Denně
+Damage:Poškození
+Damp:Vlhký
+Dance:Tanec
+Dancer:Tanečník
+Dancing:Tanec
+Danger:Nebezpečí
+Dangerous:Nebezpečný
+Dare:Odvážit se
+Dark:Temný
+Data:Údaje
+Date:Datum
+Date back:Datovat se
+Daughter:Dcera
+Day:Den
+Dead:Mrtvý
+Deaf:Hluchý
+Deal:Obchod
+Deal in:Zabývat se
+Deal with:Vypořádat se s
+Dear:Milý
+Death:Smrt
+Debate:Rozprava
+Debt:Dluh
+Decade:Desetiletí
+Decay:Rozklad
+December:Prosinec
+Decide:Rozhodnout se
+Decide on:Rozhodnout o
+Decision:Rozhodnutí
+Declare:Prohlásit
+Decline:Pokles
+Decorate:Vyzdobit
+Decoration:Dekorace
+Decorative:Dekorativní
+Decrease:Pokles
+Deep:Hluboký
+Deeply:Hluboce
+Defeat:Porazit
+Defence:Obrana
+Defend:Hájit
+Define:Definovat
+Definite:Určitý
+Definitely:Rozhodně
+Definition:Definice
+Degree:Stupeň
+Delay:Zpoždění
+Deliberate:Záměrný
+Deliberately:Záměrně
+Delicate:Jemné
+Delight:Potěšení
+Delighted:Potěšen
+Deliver:Dodat
+Delivery:Dodávka
+Demand:Poptávka
+Demonstrate:Prokázat
+Dentist:Zubař
+Deny:Odmítnout
+Department:Oddělení
+Departure:Odchod
+Depend:Záviset
+Depend on:Záleží na
+Deposit:Vklad
+Depress:Stlačit
+Depressed:Deprimovaný
+Depressing:Depresivní
+Depth:Hloubka
+Derive:Odvodit
+Derive from:Odvodit z
+Describe:Popsat
+Description:Popis
+Desert:Poušť
+Deserted:Opuštěný
+Deserve:Zasloužit si
+Design:Návrh
+Desire:Touha
+Desk:Lavice
+Desperate:Zoufalý
+Desperately:Zoufale
+Despite:I přes
+Destroy:Zničit
+Destruction:Zničení
+Detail:Podrobnost
+Detailed:Podrobný
+Determination:Určení
+Determine:Určit
+Determined:Určeno
+Develop:Rozvíjet
+Development:Rozvoj
+Device:Přístroj
+Devote:Věnovat
+Devoted:Oddaný
+Devote to:Věnovat se
+Diagram:Schéma
+Diamond:Diamant
+Diary:Deník
+Dictionary:Slovník
+Die:Zemřít
+Die away:Doznívat
+Die out:Vyhynout
+Diet:Strava
+Difference:Rozdíl
+Different:Odlišný
+Differently:Jinak
+Difficult:Obtížný
+Difficulty:Obtížnost
+Dig:Kopat
+Digital:Digitální
+Dinner:Večeře
+Direct:Přímo
+Direction:Směr
+Directly:Přímo
+Director:Ředitel
+Dirt:Špína
+Dirty:Špinavý
+Disabled:Invalidní
+Disadvantage:Nevýhoda
+Disagree:Nesouhlasit
+Disagreement:Nesouhlas
+Disagree with doing:Nesouhlasí s tím
+Disappear:Zmizet
+Disappoint:Zklamat
+Disappointed:Zklamaný
+Disappointing:Neuspokojující
+Disappointment:Zklamání
+Disapproval:Nesouhlas
+Disapprove:Neschválit
+Disapproving:Nesouhlasím
+Disaster:Katastrofa
+Disc:Disk
+Discipline:Disciplína
+Discount:Sleva
+Discover:Objevit
+Discovery:Objev
+Discuss:Diskutovat
+Discussion:Diskuse
+Disease:Choroba
+Disgust:Znechucení
+Disgusted:Znechucený
+Disgusting:Nechutný
+Dish:Jídlo
+Dishonest:Nečestný
+Dishonestly:Nečestně
+Dislike:Nemít rád
+Dismiss:Propustit
+Display:Zobrazit
+Dissolve:Rozpustit
+Distance:Vzdálenost
+Distinguish:Rozlišovat
+Distribute:Distribuovat
+Distribution:Rozdělení
+District:Okres
+Disturb:Rušit
+Disturbing:Rušivý
+Divide:Rozdělit
+Division:Divize
+Divorce:Rozvod
+Divorced:Rozvedený
+Do:Dělat
+Doctor:Doktor
+Document:Dokument
+Dog:Pes
+Dollar:Dolar
+Domestic:Domácí
+Dominate:Ovládat
+Door:Dveře
+Dot:Tečka
+Double:Dvojnásobek
+Doubt:Pochybovat
+Do up:Opravit
+Do with:Dělat s
+Do without:Obejít se bez
+Down:Dolů
+Downstairs:Přízemí
+Downward:Klesající
+Downwards:Dolů
+Dozen:Tucet
+Draft:Návrh
+Drag:Táhnout
+Drama:Divadelní hra
+Dramatic:Dramatický
+Dramatically:Dramaticky
+Draw:Kreslit
+Drawer:Šuplík
+Drawing:Výkres
+Dream:Sen
+Dress:Šaty
+Dressed:Oblečený
+Dress up:Obléci se
+Drink:Napít se
+Drive:Řídit
+Drive away:Odjet
+Drive off:Odjet
+Driver:Řidič
+Driving:Řízení
+Drop:Pokles
+Drop out:Vypadnout
+Drug:Lék
+Drugstore:Lékárna
+Drum:Buben
+Drunk:Opilý
+Dry:Suchý
+Dry off:Oschnout
+Dry up:Vysušit
+Due:Z důvodu
+Dull:Nudný
+Dump:Skládka
+During:Během
+Dust:Prach
+Duty:Povinnost
+Dying:Umírající
+Each:Každý
+Each other:Navzájem
+Ear:Ucho
+Early:Brzy
+Earn:Vydělat
+Earth:Země
+Ease:Ulehčit
+Easily:Snadno
+East:Východní
+Eastern:Východní
+Easy:Snadný
+Eat:Jíst
+Eat out:Najíst se v restauraci
+Eat up:Sníst
+Economic:Hospodářský
+Economy:Ekonomika
+Edge:Okraj
+Edition:Edice
+Editor:Redaktor
+Educate:Vzdělávat
+Educated:Vzdělaný
+Education:Vzdělání
+Effect:Účinek
+Effective:Efektivní
+Effectively:Účinně
+Efficient:Účinný
+Efficiently:Efektivně
+Effort:Snaha
+E.g.:Např.
+Egg:Vejce
+Eight:Osm
+Eighteen:Osmnáct
+Eighteenth:Osmnáctý
+Eighth:Osmý
+Eightieth:Osmdesátá
+Eighty:Osmdesát
+Either:Buď
+Elbow:Loket
+Elderly:Starší
+Elect:Zvolit
+Election:Volby
+Electric:Elektrický
+Electrical:Elektrický
+Electricity:Elektřina
+Electronic:Elektronický
+Elegant:Elegantní
+Element:Živel
+Elevator:Výtah
+Eleven:Jedenáct
+Eleventh:Jedenáctý
+Else:Jiný
+Elsewhere:Někde jinde
+Email:Elektronická pošta
+Embarrass:Uvést do rozpaků
+Embarrassed:V rozpacích
+Embarrassing:Trapný
+Embarrassment:Rozpaky
+Emerge:Objevit se
+Emergency:Nouzový
+Emotion:Emoce
+Emotional:Emocionální
+Emotionally:Citově
+Emphasis:Důraz
+Emphasize:Zdůraznit
+Empire:Říše
+Employ:Zaměstnat
+Employee:Zaměstnanec
+Employer:Zaměstnavatel
+Employment:Zaměstnanost
+Empty:Prázdný
+Enable:Umožnit
+Encounter:Setkání
+Encourage:Podporovat
+Encouragement:Povzbuzení
+End:Konec
+End in:Konec v
+Ending:Zakončení
+End up:Skončit
+Enemy:Nepřítel
+Energy:Energie
+Engage:Zapojit se
+Engaged:Zapojeno
+Engine:Motor
+Engineer:Inženýr
+Engineering:Inženýrství
+Enjoy:Užívat si
+Enjoyable:Příjemný
+Enjoyment:Zážitek
+Enormous:Obrovský
+Enough:Dost
+Enquiry:Poptávka
+Ensure:Zajistit
+Enter:Vstoupit
+Entertain:Bavit
+Entertainer:Bavič
+Entertaining:Zábavný
+Entertainment:Zábava
+Enthusiasm:Nadšení
+Enthusiastic:Nadšený
+Enthusiastically:Nadšeně
+Entire:Celý
+Entirely:Zcela
+Entitle:Opravňovat
+Entrance:Vstup
+Entry:Vstup
+Envelope:Obálka
+Environment:Životní prostředí
+Environmental:Životního prostředí
+Equal:Rovnat se
+Equally:Stejně
+Equipment:Zařízení
+Equivalent:Ekvivalent
+Error:Chyba
+Escape:Uniknout
+Especially:Zvláště
+Essay:Esej
+Essential:Nezbytný
+Essentially:V podstatě
+Establish:Vytvořit
+Estate:Majetek
+Estimate:Odhad
+Etc.:Atd.
+Euro:Měna EU
+Even:Dokonce
+Evening:Večer
+Event:Událost
+Eventually:Nakonec
+Ever:Vůbec (někdy)
+Every:Každý
+Everybody:Všichni
+Everyone:Každý
+Everything:Všechno
+Everywhere:Všude
+Evidence:Důkaz
+Evil:Zlo
+Ex-:Ex-
+Exact:Přesný
+Exactly:Přesně
+Exaggerate:Přehánět
+Exaggerated:Přehnaný
+Exam:Zkouška
+Examination:Zkouška
+Examine:Přezkoumat
+Example:Příklad
+Excellent:Vynikající
+Except:Až na
+Exception:Výjimka
+Exchange:Výměna
+Excite:Rozrušit
+Excited:Vzrušený
+Excitement:Vzrušení
+Exciting:Vzrušující
+Exclude:Vyloučit
+Excluding:S výjimkou
+Excuse:Omluva
+Executive:Výkonný
+Exercise:Cvičení
+Exhibit:Exponát
+Exhibition:Výstava
+Exist:Existovat
+Existence:Bytí koho/čeho
+Exit:Výstup
+Expand:Rozšířit
+Expect:Očekávat
+Expectation:Očekávání
+Expected:Očekávaný
+Expense:Náklady
+Expensive:Drahý
+Experience:Zkušenosti
+Experienced:Zkušený
+Experiment:Pokus
+Expert:Odborník
+Explain:Vysvětlit
+Explanation:Vysvětlení
+Explode:Explodovat
+Explore:Prozkoumat
+Explosion:Exploze
+Export:Vývozní
+Expose:Odhalit
+Express:Vyjádřit
+Expression:Výraz
+Extend:Rozšířit
+Extension:Rozšíření
+Extensive:Rozsáhlý
+Extent:Rozsah
+Extra:Další
+Extraordinary:Mimořádný
+Extreme:Extrémní
+Extremely:Velmi
+Eye:Oko
+Face:Tvář
+Face up to:Postavit se čelem
+Facility:Zařízení
+Fact:Skutečnost
+Factor:Faktor
+Factory:Továrna
+Fail:Selhat
+Failure:Selhání
+Faint:Chabý
+Faintly:Slabě
+Fair:Veletrh
+Fairly:Spravedlivě
+Faith:Víra
+Faithful:Věřící
+Faithfully:Věrně
+Fall:Padat
+False:Nepravdivé
+Fame:Sláva
+Familiar:Známý
+Family:Rodina
+Famous:Slavný
+Fan:Fanoušek
+Fancy:Módní
+Far:Daleko
+Farm:Hospodařit
+Farmer:Zemědělec
+Farming:Zemědělství
+Farther:Dál
+Farthest:Nejdále
+Fashion:Móda
+Fashionable:Módní
+Fast:Rychle
+Fasten:Připevnit
+Fat:Tlustý
+Father:Otec
+Faucet:Kohoutek
+Fault:Chyba
+Favour:Laskavost
+Favourite:Oblíbený
+Fear:Strach
+Feather:Pírko
+Feature:Vlastnost
+February:Únor
+Federal:Federální
+Fee:Poplatek
+Feed:Krmivo
+Feel:Cítit
+Feeling:Pocit
+Fellow:Chlapík
+Female:Ženský
+Fence:Plot
+Festival:Svátek
+Fetch:Vynést
+Fever:Horečka
+Few:Pár
+Field:Pole
+Fifteen:Patnáct
+Fifteenth:Patnáctý
+Fifth:Pátý
+Fiftieth:Padesátý
+Fifty:Padesát
+Fight:Boj
+Fighting:Bojování
+Figure:Postava
+Figure out:Vyřešit
+File:Soubor
+Fill:Vyplnit
+Fill in:Vyplnit
+Fill out:Vyplnit
+Fill up:Naplnit
+Film:Tenká vrstva
+Final:Finále
+Finally:Konečně
+Finance:Financovat
+Financial:Finanční
+Find:Nalézt
+Find out:Zjistit
+Fine:V pořádku
+Finely:Jemně
+Finger:Prst
+Finish:Dokončit
+Finished:Dokončeno
+Finish off:Dokončit
+Fire:Oheň
+Firm:Firma
+Firmly:Pevně
+First:První
+Fish:Ryba
+Fishing:Rybolov
+Fit:Vejít se
+Fit in:Zapadnout
+Five:Pět
+Fix:Opravit
+Fixed:Pevný
+Flag:Vlajka
+Flame:Plamen
+Flash:Blikat
+Flat:Plochý
+Flavour:Příchuť
+Flesh:Maso
+Flight:Let
+Float:Plout
+Flood:Zaplavit
+Flooded:Zaplaven
+Flooding:Záplavy
+Floor:Patro, podlaha, dno
+Flour:Mouka
+Flow:Tok
+Flower:Květ
+Flu:Chřipka
+Fly:Létat
+Flying:Letící
+Focus:Soustředit se
+Fold:Složit
+Folding:Skládací
+Follow:Následovat
+Following:Následující
+Follow up:Následovat
+Food:Jídlo
+Foot:Noha
+Football:Fotbal
+For:Pro
+Force:Platnost
+Forecast:Předpověď
+Foreign:Zahraniční, cizí
+Forest:Les
+Forever:Navždy
+Forget:Zapomenout
+Forgive:Odpustit
+Fork:Vidlička
+Form:Formulář
+Formal:Formální
+Formally:Formálně
+Former:Bývalý
+Formerly:Dříve
+Formula:Vzorec
+Fortieth:Čtyřicátý
+Fortune:Štěstí
+Forty:Čtyřicet
+Forward:Vpřed
+Found:Nalezeno
+Foundation:Nadace
+Four:Čtyři
+Fourteen:Čtrnáct
+Fourteenth:Čtrnáctý
+Fourth:Čtvrtý
+Frame:Rám
+Free:Volný, uvolnit
+Freedom:Svoboda
+Freely:Svobodně
+Freeze:Zmrazit
+Frequent:Časté
+Frequently:Často
+Fresh:Čerstvý
+Freshly:Čerstvě
+Friday:Pátek
+Fridge:Lednička
+Friend:Přítel
+Friendly:Přátelský
+Friendship:Přátelství
+Frighten:Vystrašit
+Frighten away:Vystrašit
+Frightened:Vystrašený
+Frightening:Děsivý
+From:Z
+Front:Přední
+Frozen:Zamrzlý
+Fruit:Ovoce
+Fry:Usmažit
+Fuel:Palivo
+Full:Plný
+Fully:Plně
+Fun:Zábava
+Function:Funkce
+Function as:Sloužit jako
+Fund:Fond
+Fundamental:Základní
+Funeral:Pohřeb
+Funny:Legrační
+Fur:Srst
+Furniture:Nábytek
+Further:Dále
+Future:Budoucnost
+Gain:Získat
+Gallon:Galon
+Gamble:Hazardovat
+Gambling:Hazardní hry
+Game:Hra
+Gap:Mezera
+Garage:Garáž
+Garbage:Odpadky
+Garden:Zahrada
+Gas:Plyn
+Gasoline:Benzín
+Gate:Brána
+Gather:Shromáždit
+Gear:Ozubené kolo
+General:Všeobecné
+Generally:Obvykle
+Generate:Generovat
+Generation:Generace
+Generous:Štědrý
+Generously:Velkoryse
+Gentle:Jemný
+Gentleman:Džentlmen
+Gently:Jemně
+Genuine:Originální
+Genuinely:Skutečně
+Geography:Zeměpis
+Get:Dostat
+Get away:Dostat se pryč
+Get away with:Vyváznout
+Get back:Vrátit se
+Get by:Vystačit
+Get in:Nastoupit
+Get into:Dostat se do
+Get off:Vystoupit
+Get on:Pokračovat
+Get on with:Rozumět si s někým
+Get out of:Dostat se z
+Get over:Překonat
+Get round:Vyhnout se něčemu
+Get through:Projít
+Get up:Vstávej
+Giant:Obří
+Gift:Dar
+Girl:Dívka
+Girlfriend:Přítelkyně
+Give:Dát
+Give away:Rozdat
+Give back:Vrátit
+Give in:Dát dovnitř
+Give off:Vydávat
+Give out:Rozdávat
+Give up:Vzdát se
+Glad:Rád
+Glass:Sklenice
+Global:Globální
+Glove:Rukavice
+Glue:Lepidlo
+Go:Jít
+Go ahead:Pokračovat
+Goal:Fotbalová branka
+Go away:Odejít
+Go back:Vrátit se zpět
+Go back to:Mít původ
+Go by:Jít kolem
+God:Bůh
+Go down:Klesat
+Go into:Jít do
+Gold:Zlato
+Good:Dobrý
+Goodbye:Ahoj
+Goods:Zboží
+Go off:Spustit
+Go on:Pokračovat
+Go on doing:Pokračovat
+Go out:Jít ven
+Go out with:Jít ven s
+Go over:Přejít
+Go round:Objíždět
+Go through:Prožít (si)
+Go through with:Provést (co)
+Go to:Jít do
+Go up:Stoupat
+Govern:Řídit
+Government:Vláda
+Governor:Guvernér
+Go with:Patřit k
+Go without:Obejít se
+Grab:Popadnout
+Grade:Školní známka
+Gradual:Postupný
+Gradually:Postupně
+Grain:Obilí
+Grammar:Gramatika
+Grand:Ohromný
+Grandchild:Vnouče
+Granddaughter:Vnučka
+Grandfather:Dědeček
+Grandmother:Babička
+Grandparent:Prarodič
+Grandson:Vnuk
+Grant:Dotace
+Grass:Tráva
+Grateful:Vděčný
+Grave:Hrob
+Gravely:Vážně
+Great:Skvělý
+Greatly:Velmi
+Green:Zelená
+Grey:Šedá
+Grocery:Potraviny
+Ground:Podlaha
+Group:Skupina
+Grow:Růst
+Growth:Růst
+Grow up:Vyrůst
+Guarantee:Záruka
+Guard:Hlídat
+Guess:Hádat
+Guest:Host
+Guide:Průvodce
+Guilty:Vinný
+Gun:Pistole
+Guy:Chlap
+Habit:Zvyk
+Hair:Vlasy
+Hairdresser:Kadeřník
+Half:Polovina
+Hall:Hala
+Hammer:Kladivo
+Hand:Ruka
+Hand back:Vrátit
+Hand down:Předat
+Hand in:Odevzdat
+Handle:Zvládnout
+Hand out:Rozdávat
+Hand over:Předat
+Hand round:Dát kolovat
+Hang:Pověsit
+Hang about:Poflakovat se
+Hang about with:Poflakovat se s někým
+Hang around:Postávat
+Hang around with:Trávit čas s
+Hang on:Počkat
+Hang on to:Ponechat si
+Hang up:Zavěsit
+Happen:Přihodit se
+Happen to:Stát se (někomu)
+Happily:Šťastně
+Happiness:Štěstí
+Happy:Šťastný
+Hard:Tvrdý
+Hardly:Stěží
+Harm:Poškodit
+Harmful:Škodlivý
+Harmless:Neškodný
+Hat:Čepice
+Hate:Nenávidět
+Hatred:Nenávist
+Have:Mít
+Have back:Udobřit se
+Have on:Mít na sobě
+Have to:Muset
+He:On
+Head:Hlava
+Headache:Bolest hlavy
+Heal:Vyléčit
+Health:Zdraví
+Healthy:Zdravý
+Hear:Slyšet
+Hear from:Slyšet o
+Hearing:Sluch
+Hear of:Slyšet o
+Heart:Srdce
+Heat:Teplo
+Heating:Topení
+Heat up:Rozehřát
+Heaven:Nebe
+Heavily:Těžce
+Heavy:Těžký
+Heel:Pata
+Height:Výška
+Hell:Peklo
+Hello:Ahoj
+Help:Pomoc
+Helpful:Ochotný
+Help out:Pomoci
+Hence:Proto
+Her:Její
+Here:Zde
+Hero:Hrdina
+Hers:Její
+Herself:Ona sama
+Hesitate:Váhat
+Hi:Ahoj
+Hide:Skrýt
+High:Vysoký
+Highlight:Zvýraznit
+Highly:Vysoce
+Highway:Dálnice
+Hill:Kopec
+Him:Jemu
+Himself:On sám
+Hip:Bok
+Hire:Najmout si
+Hire out:Pronajmout
+His:Jeho
+Historical:Historický
+History:Dějiny
+Hit:Udeřit
+Hobby:Záliba
+Hold:Držet
+Hold back:Zadržet
+Hold on:Vydrž
+Hold on to:Držet se
+Hold out:Vydržet
+Hold up:Zvednout
+Hole:Otvor
+Holiday:Dovolená
+Hollow:Dutý
+Holy:Svatý
+Home:Domov
+Homework:Domácí práce
+Honest:Upřímný
+Honestly:Upřímně řečeno
+Honour:Čest
+Hook:Háček
+Hope:Naděje
+Horizontal:Horizontální
+Horn:Roh
+Horror:Hrůza
+Horse:Kůň
+Hospital:Nemocnice
+Host:Hostitel
+Hot:Horký
+Hour:Hodina
+House:Dům
+Household:Domácnost
+Housing:Bydlení
+How:Jak
+However:Nicméně
+Huge:Obrovský
+Human:Člověk
+Humorous:Vtipný
+Humour:Humor
+Hundred:Sto
+Hundredth:Stý
+Hungry:Hladový
+Hunt:Lov
+Hunting:Lov
+Hurry:Spěchat
+Hurry up:Pospíšit si
+Hurt:Zranit
+Husband:Manžel
+I:Já
+Ice:Led
+Ice cream:Zmrzlina
+Idea:Myšlenka
+Ideal:Ideální
+Identify:Identifikovat
+Identify with:Identifikovat se s
+Identity:Identita
+I.e.:Tj.
+If:Když
+Ignore:Ignorovat
+Ill:Nemocný
+Illegal:Ilegální
+Illegally:Nelegálně
+Illness:Nemoc
+Illustrate:Ilustrovat
+Image:Obraz
+Imaginary:Imaginární
+Imagination:Fantazie
+Imagine:Představit si
+Immediate:Bezprostřední
+Immediately:Ihned
+Immoral:Nemorální
+Impact:Dopad
+Impatient:Netrpělivý
+Implication:Důsledek
+Imply:Naznačovat
+Import:Dovoz
+Importance:Důležitost
+Important:Důležité
+Importantly:Důležitě
+Impose:Vnucovat
+Impossible:Nemožné
+Impress:Zapůsobit
+Impressed:Ohromen
+Impression:Dojem
+Impressive:Impozantní
+Improve:Zlepšit
+Improvement:Zlepšení
+In:V
+Inability:Neschopnost
+Inch:Palec
+Incident:Mimořádná událost
+Include:Zahrnout
+Including:Včetně
+Income:Příjem
+Increase:Zvýšit
+Increasingly:Stále více
+Indeed:Vskutku
+Independence:Nezávislost
+Independent:Nezávislý
+Independently:Nezávisle
+Indicate:Naznačovat
+Indication:Náznak
+Indirect:Nepřímý
+Indirectly:Nepřímo
+Individual:Individuální
+Indoor:Krytý
+Indoors:Uvnitř
+Industrial:Průmyslový
+Industry:Průmysl
+Inevitable:Nevyhnutelný
+Inevitably:Nevyhnutelně
+Infect:Infikovat
+Infected:Nakažený
+Infection:Infekce
+Infectious:Infekční
+Influence:Vliv
+Inform:Informovat
+Informal:Neformální
+Information:Informace
+Ingredient:Přísada
+Initial:Počáteční
+Initially:Zpočátku
+Initiative:Iniciativa
+Injure:Zranit
+Injured:Zraněný
+Injury:Zranění
+Ink:Inkoust
+Inner:Vnitřní
+Innocent:Nevinný
+Insect:Hmyz
+Insert:Vložit
+Inside:Uvnitř
+Insist:Trvat
+Insist on:Trvat na
+Insist on doing:Trvat na tom
+Install:Nainstalovat
+Instance:Případ
+Instead:Místo toho
+Instead of:Namísto
+Institute:Ústav
+Institution:Instituce
+Instruction:Návod
+Instrument:Nástroj
+Insult:Urazit
+Insulting:Urážející
+Insurance:Pojištění
+Intelligence:Inteligence
+Intelligent:Inteligentní
+Intend:Zamýšlet
+Intended:Zamýšlený
+Intention:Záměr
+Interest:Zájem
+Interested:Zaujatý
+Interesting:Zajímavý
+Interior:Interiér
+Internal:Vnitřní
+International:Mezinárodní
+Interpret:Interpretovat
+Interpretation:Výklad
+Interrupt:Přerušit
+Interruption:Přerušení
+Interview:Rozhovor
+Into:Do
+Introduce:Představit
+Introduction:Úvod
+Invent:Vymyslet
+Invention:Vynález
+Invest:Investovat
+Investigate:Vyšetřovat
+Investigation:Vyšetřování
+Investment:Investice
+Invitation:Pozvání
+Invite:Pozvat
+Involve:Zapojit
+Involved:Zapojený
+Involvement:Účast
+Iron:Železo
+Irritate:Dráždit
+Irritated:Podrážděná
+Irritating:Rozčilující
+Island:Ostrov
+Issue:Problém
+It:To
+Item:Položka
+Its:Svůj
+Itself:Samo
+Jacket:Bunda
+Jam:Džem
+January:Leden
+Jealous:Žárlivý
+Jeans:Džíny
+Jelly:Želé
+Jewellery:Šperky
+Job:Práce
+Join:Připojit
+Join in:Přidat se
+Joint:Kloub
+Jointly:Společně
+Joke:Žert
+Journalist:Novinář
+Journey:Cesta
+Joy:Radost
+Judge:Soudce
+Judgement:Rozsudek
+Juice:Šťáva
+July:Červenec
+Jump:Skok
+June:Červen
+Junior:Juniorský
+Just:Prostě
+Justice:Spravedlnost
+Justified:Oprávněné
+Justify:Ospravedlnit
+Keen:Zájem
+Keep:Držet
+Keep out:Zákaz vstupu
+Keep out of:Vyhýbat se
+Keep up:Držet krok
+Keep up with:Držet tempo s
+Key:Klíč
+Keyboard:Klávesnice
+Kick:Kopnout
+Kid:Dítě
+Kill:Zabít
+Killing:Zabíjení
+Kilometre:Kilometr
+Kind:Druh
+Kindly:Laskavě
+Kindness:Laskavost
+King:Král
+Kiss:Polibek
+Kitchen:Kuchyně
+Knee:Koleno
+Knife:Nůž
+Knit:Plést
+Knitted:Pletený
+Knitting:Pletení
+Knock:Klepání
+Knock down:Srazit
+Knock out:Vyřadit
+Knot:Uzel
+Know:Vědět
+Knowledge:Znalost
+Lab:Laboratoř
+Label:Označení
+Laboratory:Laboratoř
+Labour:Práce
+Lack:Nedostatek
+Lacking:Postrádající
+Lady:Dáma
+Lake:Jezero
+Lamp:Svítilna
+Land:Země
+Landscape:Krajina
+Lane:Cesta
+Language:Jazyk
+Large:Velký
+Largely:Převážně
+Last:Poslední
+Late:Pozdě
+Later:Později
+Latest:Nejnovější
+Latter:Pozdější
+Laugh:Smát se
+Laugh at:Vysmívat se
+Launch:Zahájení
+Law:Zákon
+Lawyer:Právník
+Lay:Položit
+Layer:Vrstva
+Lazy:Líný
+Lead:Vedení
+Leader:Vůdce
+Leading:Vedoucí
+Leaf:List
+League:Liga
+Lean:Opírat se
+Learn:Učit se
+Least:Nejméně
+Leather:Kůže
+Leave:Opustit
+Leave out:Vynechat
+Lecture:Přednáška
+Left:Vlevo
+Leg:Noha
+Legal:Právní
+Legally:Legálně
+Lemon:Citrón
+Lend:Půjčovat
+Length:Délka
+Less:Méně
+Lesson:Lekce
+Let:Nechat
+Let down:Zklamat
+Let off:Propustit
+Letter:Dopis
+Level:Úroveň
+Library:Knihovna
+License:Povolení
+Lid:Víčko
+Lie:Ležet
+Lie around:Povalovat se
+Lie down:Lehnout
+Life:Život
+Lift:Výtah
+Light:Světlo
+Lightly:Lehce
+Like:Jako
+Likely:Pravděpodobně
+Limit:Omezit
+Limited:Omezený
+Limit to:Omezit na
+Line:Čára
+Link:Odkaz
+Lip:Ret
+Liquid:Kapalina
+List:Seznam
+Listen:Poslouchat
+Literature:Literatura
+Litre:Litr
+Little:Málo
+Live:Žít
+Lively:Živý
+Live on:Žít dál
+Live through:Přežít
+Live together:Žít společně
+Living:Živobytí
+Load:Náklad
+Loan:Půjčka
+Local:Místní
+Locally:Lokálně
+Locate:Lokalizovat
+Located:Nachází se
+Location:Umístění
+Lock:Zámek
+Lock up:Zamknout
+Logic:Logika
+Logical:Logický
+Lonely:Osamělý
+Long:Dlouho
+Look:Dívat se
+Look after:Starat se o
+Look at:Podívat se na
+Look down on:Povyšovat se na
+Look forward to:Těšit se
+Look into:Prozkoumat
+Look on with:Podívej se dál
+Look out:Pozor
+Look out for:Dát si pozor na
+Look round:Rozhlédnout se
+Look through:Prohlédnout si
+Look up:Vyhledat
+Look up to:Vzhlížet k
+Loose:Volný
+Loosely:Volně
+Lord:Pán
+Lorry:Nákladní auto
+Lose:Prohrát
+Loss:Ztráta
+Lost:Ztracený
+Lot:Hodně
+Loud:Hlasitý
+Loudly:Hlasitě
+Love:Milovat
+Lovely:Půvabný
+Lover:Milenec
+Low:Nízký
+Loyal:Loajální
+Luck:Štěstí
+Lucky:Šťastný
+Luggage:Zavazadla
+Lump:Hrouda
+Lunch:Oběd
+Lung:Plíce
+Machine:Stroj
+Machinery:Stroje
+Mad:Šílený
+Magazine:Časopis
+Magic:Kouzlo
+Mail:Pošta
+Main:Hlavní
+Mainly:Hlavně
+Maintain:Udržovat
+Major:Hlavní, důležitý
+Majority:Většina
+Make:Udělat
+Make into:Přetvořit
+Make up:Vymyslet (si)
+Make up for:Vynahradit
+Male:Mužský
+Mall:Nákupní centrum
+Man:Muž
+Manage:Spravovat
+Management:Řízení
+Manager:Manažer
+Manner:Způsob
+Manufacture:Vyrobit
+Manufacturer:Výrobce
+Manufacturing:Výrobní
+Many:Mnoho
+Map:Mapa
+March:Březen
+Mark:Označit
+Market:Trh
+Marriage:Manželství
+Married:Ženatý
+Marry:Oženit se
+Mass:Hmotnost
+Massive:Masivní
+Master:Mistr
+Match:Zápas
+Matching:Vhodný
+Match up:Hodit se k
+Mate:Kamarád
+Material:Materiál
+Mathematics:Matematika
+Matter:Záležitost
+May:Smět
+Maybe:Možná
+Mayor:Starosta
+Me:Mě
+Meal:Jídlo
+Mean:Znamenat
+Meaning:Význam
+Means:Prostředek
+Meanwhile:Mezitím
+Measure:Opatření
+Measurement:Měření
+Meat:Maso
+Media:Média
+Medical:Lékařský
+Medicine:Medicína
+Medium:Střední
+Meet:Setkat
+Meeting:Setkání
+Meet up:Setkat se
+Meet with:Setkat se s
+Melt:Tát
+Member:Člen
+Membership:Členství
+Memory:Paměť
+Mental:Duševní
+Mentally:Mentálně
+Mention:Zmínit se
+Menu:Jídelní lístek
+Mere:Pouhý
+Merely:Pouze
+Mess:Nepořádek
+Message:Zpráva
+Metal:Kov
+Method:Metoda
+Metre:Metr
+Mid:Střední
+Midday:Poledne
+Middle:Střední
+Midnight:Půlnoc
+Might:Mohl by
+Mild:Mírné
+Mile:Míle
+Military:Válečný
+Milk:Mléko
+Milligram:Miligram
+Millimetre:Milimetr
+Million:Milión
+Millionth:Milióntý
+Mind:Mysl
+Mine:Těžit
+Mineral:Minerální
+Minimum:Minimální
+Minister:Ministr
+Ministry:Ministerstvo
+Minor:Menší
+Minority:Menšina
+Minute:Minuta
+Mirror:Zrcadlo
+Miss:Slečna, minout
+Missing:Chybějící
+Miss out:Vynechat
+Mistake:Chyba
+Mistake for:Splést si
+Mistaken:Splést se
+Mix:Smíchat
+Mixed:Smíšený
+Mixture:Směs
+Mix up:Pomíchat
+Mobile:Mobilní, pohybliví
+Mobile phone:Mobilní telefon
+Modern:Moderní
+Mom:Maminka
+Moment:Chvíle
+Monday:Pondělí
+Money:Peníze
+Monitor:Sledovat
+Month:Měsíc
+Mood:Nálada
+Moon:Měsíc
+Moral:Morální
+Morally:Morálně
+More:Více
+Moreover:Navíc
+Morning:Ráno
+Most:Většina
+Mostly:Většinou
+Mother:Matka
+Motion:Pohyb
+Motorbike:Motorka
+Motorcycle:Motocykl
+Mount:Zahájit
+Mountain:Hora
+Mouse:Myš
+Mouth:Pusa
+Move:Hýbat se
+Move in:Nastěhování
+Movement:Hnutí
+Move out:Vystěhovat se
+Move over:Přesunout se
+Movie:Film
+Movie theater:Kino
+Moving:Pohybující se
+Mr:Pan
+Mrs:Paní
+Ms:Slečna
+Much:Hodně
+Mud:Bláto
+Multiply:Násobit
+Mum:Maminka
+Murder:Vražda
+Muscle:Sval
+Museum:Muzeum
+Music:Hudba
+Musical:Hudební
+Musician:Hudebník
+Must:Muset
+My:Můj
+Myself:Já sám
+Mysterious:Tajemný
+Mystery:Tajemství
+Nail:Nehet
+Naked:Nahý
+Name:Název
+Narrow:Úzký
+Nation:Národ
+National:Národní
+Natural:Přírodní
+Naturally:Přirozeně
+Nature:Příroda
+Navy:Námořnictvo
+Near:Blízko
+Nearby:V blízkosti
+Nearly:Téměř
+Neat:Elegantní
+Neatly:Úhledně
+Necessarily:Nezbytně
+Necessary:Nezbytné
+Neck:Krk
+Need:Potřeba
+Needle:Jehla
+Negative:Negativní
+Neighbour:Soused
+Neighbourhood:Sousedství
+Neither:Ani
+Nephew:Synovec
+Nerve:Nerv
+Nervous:Nervový
+Nervously:Nervózně
+Nest:Hnízdo
+Net:Síť
+Network:Síť
+Never:Nikdy
+Nevertheless:Nicméně
+New:Nový
+Newly:Nově
+News:Zprávy
+Newspaper:Noviny
+Next:Další
+Next to:Vedle
+Nice:Pěkný
+Nicely:Hezky
+Niece:Neteř
+Night:Noc
+Nine:Devět
+Nineteen:Devatenáct
+Nineteenth:Devatenáctý
+Ninetieth:Devadesátý
+Ninety:Devadesát
+Ninth:Devátý
+No:Ne
+Nobody:Nikdo
+Noise:Hluk
+Noisily:Hlučně
+Noisy:Hlučný
+Non-:Ne-
+None:Žádný
+Nonsense:Nesmysl
+No one:Nikdo
+Nor:Ani
+Normal:Normální
+Normally:Normálně
+North:Severní
+Northern:Severní
+Nose:Nos
+Not:Ne
+Note:Poznámka
+Note down:Zapsat si
+Nothing:Nic
+Notice:Oznámení
+Noticeable:Výrazný
+Novel:Román
+November:Listopad
+Now:Nyní
+Nowhere:Nikde
+Nuclear:Jaderné
+Number:Číslo
+Nurse:Zdravotní sestřička
+Nut:Ořech
+Obey:Poslouchat
+Object:Objekt
+Objective:Objektivní
+Observation:Pozorování
+Observe:Pozorovat
+Obtain:Získat
+Obvious:Zřejmé
+Obviously:Očividně
+Occasion:Příležitost
+Occasionally:Občas
+Occupied:Obsazený
+Occupy:Okupovat
+Occur:Nastat
+Occur to:Vyskytnout
+Ocean:Oceán
+O’clock:Hodin
+October:Říjen
+Odd:Zvláštní
+Oddly:Podivně
+Of:Z
+Off:Vypnuto
+Offence:Útok
+Offend:Urazit
+Offense:Útok
+Offensive:Urážlivý
+Offer:Nabídka
+Office:Kancelář
+Officer:Úředník
+Official:Oficiální
+Officially:Oficiálně
+Often:Často
+Oh:Ach
+Oil:Olej
+Ok:Fajn
+Old:Starý
+Old-fashioned:Staromódní
+On:Na
+Once:Jednou
+One:Jeden
+One another:Navzájem
+Onion:Cibule
+Only:Pouze
+Onto:Na
+Open:Otevřeno
+Opening:Otevírací
+Openly:Otevřeně
+Open up:Otevřít
+Operate:Fungovat
+Operation:Úkon
+Opinion:Názor
+Opponent:Oponent
+Opportunity:Příležitost
+Oppose:Oponovat
+Opposed:Protichůdný
+Opposing:Protichůdné
+Opposite:Naproti
+Opposition:Opozici
+Option:Volba
+Or:Nebo
+Orange:Oranžový
+Order:Objednat
+Ordinary:Obyčejný
+Organ:Orgán
+Organization:Organizace
+Organize:Organizovat
+Organized:Organizovaný
+Origin:Původ
+Original:Originál
+Originally:Původně
+Other:Jiný
+Otherwise:V opačném případě
+Ought to:Měl by
+Our:Náš
+Ours:Naše
+Ourselves:My sami
+Out:Ven
+Outdoor:Venkovní
+Outdoors:Venku
+Outer:Vnější
+Outline:Obrys
+Output:Výstup
+Outside:Vnějšek
+Outstanding:Vynikající
+Oven:Trouba
+Over:Přes
+Overall:Celkově
+Overcome:Překonat
+Owe:Dlužit
+Own:Vlastní
+Owner:Majitel
+Own up:Přiznat se
+Pace:Tempo
+Pack:Sbalit
+Package:Balík
+Packaging:Obal
+Packet:Balíček
+Pack up:Zabalit
+Page:Strana
+Pain:Bolest
+Painful:Bolestivý
+Paint:Malovat
+Painter:Malíř
+Painting:Malování
+Pair:Pár
+Palace:Palác
+Pale:Bledý
+Pan:Pánev
+Panel:Deska
+Pants:Kalhoty
+Paper:Papír
+Parallel:Paralelní
+Parent:Rodič
+Parliament:Parlament
+Part:Část
+Particular:Konkrétní
+Particularly:Zejména
+Partly:Částečně
+Partner:Společník
+Partnership:Partnerství
+Party:Oslava
+Pass:Složit
+Passage:Průchod
+Pass away:Zemřít
+Pass by:Míjet
+Passenger:Cestující
+Passing:Procházející
+Pass on:Předat
+Pass out:Omdlít
+Passport:Cestovní pas
+Pass round:Dát kolovat
+Pass through:Skrz
+Past:Minulost
+Path:Cesta
+Patience:Trpělivost
+Patient:Trpěliví
+Pattern:Vzor
+Pause:Pauza
+Pay:Platit
+Pay back:Splatit
+Payment:Platba
+Pay out:Vyplatit
+Pay up:Splatit
+Peace:Mír
+Peaceful:Klidný
+Peak:Vrchol
+Pen:Pero
+Pencil:Tužka
+Penny:Pence
+Pension:Důchod
+People:Lidé
+Pepper:Pepř
+Per:Za
+Per cent:Procent
+Perfect:Perfektní
+Perfectly:Dokonale
+Perform:Provést
+Performance:Představení
+Performer:Umělec
+Perhaps:Možná
+Period:Doba
+Permanent:Trvalý
+Permanently:Natrvalo
+Permission:Povolení
+Permit:Povolit
+Person:Osoba
+Personal:Osobní
+Personality:Osobnost
+Personally:Osobně
+Persuade:Přesvědčit
+Pet:Domácí mazlíček
+Petrol:Benzín
+Phase:Fáze
+Philosophy:Filozofie
+Phone:Telefon
+Photo:Fotografie
+Photocopy:Fotokopie
+Photograph:Fotografie
+Photographer:Fotograf
+Photography:Fotografování
+Phrase:Fráze
+Physical:Fyzický
+Physically:Fyzicky
+Physics:Fyzika
+Piano:Klavír
+Pick:Vybrat si
+Pick up:Vyzvednout
+Picture:Obrázek
+Piece:Kus
+Pig:Prase
+Pile:Hromada
+Pile up:Nahromadit
+Pill:Pilulka
+Pilot:Letec
+Pin:Špendlík
+Pink:Růžový
+Pint:Pinta
+Pipe:Trubka
+Pitch:Hřiště
+Pity:Škoda
+Place:Místo
+Plain:Prostý
+Plan:Plán
+Plane:Letadlo
+Planet:Planeta
+Planning:Plánování
+Plant:Rostlina
+Plastic:Plastový
+Plate:Talíř
+Platform:Plošina
+Play:Hrát si
+Play about:Šaškovat
+Player:Hráč
+Play with:Hrát si s
+Pleasant:Příjemný
+Pleasantly:Příjemně
+Please:Prosím
+Pleased:Potěšen
+Pleasing:Příjemný
+Pleasure:Potěšení
+Plenty:Spousta
+Plot:Spiknutí
+Plug:Zástrčka
+Plug in:Zapojit
+PM:Odpoledne
+Pocket:Kapsa
+Poem:Báseň
+Poetry:Poezie
+Point:Bod
+Pointed:Špičatý
+Point out:Upozornit na
+Poison:Jed
+Poisonous:Jedovatý
+Pole:Tyč
+Police:Policie
+Policy:Politika
+Polish:Leštit
+Polite:Zdvořilý
+Politely:Zdvořile
+Political:Politický
+Politically:Politicky
+Politician:Politik
+Politics:Politika
+Pollution:Znečištění
+Pool:Bazén
+Poor:Chudý
+Pop:Bouchnout
+Popular:Oblíbený
+Population:Populace
+Port:Přístav
+Pose:Póza
+Position:Pozice
+Positive:Pozitivní
+Possess:Vlastnit
+Possession:Majetek
+Possibility:Možnost
+Possible:Možný
+Possibly:Možná
+Post:Zveřejnit
+Post office:Pošta
+Pot:Hrnec
+Potato:Brambor
+Potential:Potenciální
+Potentially:Potenciálně
+Pound:Libra
+Pour:Nalévat
+Powder:Prášek
+Power:Moc, síla
+Powerful:Silný
+Practical:Praktický
+Practically:Prakticky
+Practice:Praxe
+Practise:Procvičovat
+Praise:Chvála
+Pray:Modlit se
+Prayer:Modlitba
+Precise:Přesný
+Precisely:Přesně
+Predict:Předpovědět
+Prefer:Upřednostňovat
+Preference:Přednost
+Pregnant:Těhotná
+Premises:Předpoklad
+Preparation:Příprava
+Prepare:Připravit
+Prepared:Připravený
+Presence:Přítomnost
+Present:Současnost, dárek
+Presentation:Prezentace
+Preserve:Zachovat
+President:Prezident
+Press:Tisknout
+Pressure:Tlak
+Presumably:Pravděpodobně
+Pretend:Předstírat
+Pretty:Hezký
+Prevent:Zabránit
+Previous:Předchozí
+Previously:Dříve
+Price:Cena
+Pride:Hrdost
+Priest:Kněz
+Primarily:Především
+Primary:Hlavní
+Prime minister:Premiér
+Prince:Princ
+Princess:Princezna
+Principle:Zásada
+Print:Tisknout
+Printer:Tiskárna
+Printing:Tisk
+Print off:Vytisknout
+Prior:Dříve
+Priority:Přednost
+Prison:Vězení
+Prisoner:Vězeň
+Private:Soukromé
+Privately:Soukromě
+Prize:Cena
+Probable:Pravděpodobný
+Probably:Pravděpodobně
+Problem:Problém
+Procedure:Postup
+Proceed:Pokračovat
+Process:Průběh
+Produce:Vyrobit
+Producer:Výrobce
+Product:Produkt
+Production:Výroba
+Profession:Profese
+Professional:Profesionální
+Professor:Profesor
+Profit:Zisk
+Programme:Program
+Progress:Pokrok
+Project:Projekt
+Promise:Slib
+Promote:Podporovat
+Promotion:Povýšení
+Prompt:Okamžitý
+Promptly:Okamžitě
+Pronounce:Vyslovit
+Pronunciation:Výslovnost
+Proof:Důkaz
+Proper:Správný
+Properly:Správně
+Property:Vlastnictví
+Proportion:Poměr
+Proposal:Návrh
+Propose:Navrhnout
+Prospect:Vyhlídka
+Protect:Chránit
+Protection:Ochrana
+Protest:Ohradit se
+Proud:Hrdý
+Proudly:Pyšně
+Prove:Dokázat
+Provide:Poskytnout
+Provided:Pokud
+Providing:Pokud
+Pub:Hospoda
+Public:Veřejnost
+Publication:Vydání
+Publicity:Publicita
+Publicly:Veřejně
+Publish:Publikovat
+Publishing:Publikování
+Pull:Táhnout
+Pull apart:Roztrhnout
+Pull down:Strhnout
+Pull in:Vjet
+Pull off:Sundat
+Pull out:Vytáhnout
+Pull over:Zastavit
+Pull through:Vyváznout
+Pull together:Spolupracovat
+Pull up:Vytáhnout
+Punch:Rána pěstí
+Punish:Potrestat
+Punishment:Trest
+Pupil:Žák
+Purchase:Koupit
+Pure:Čistý
+Purely:Čistě
+Purple:Nachový
+Purpose:Účel
+Pursue:Pokračovat
+Push:Tlačit
+Push about:Tlačit se
+Push forward:Pokračovat
+Put:Dát
+Put away:Dát pryč
+Put back:Dát zpátky
+Put down:Položit
+Put forward:Předložit
+Put in:Vložit
+Put off:Odložit
+Put on:Obléknout
+Put out:Vydat
+Put through:Přepojit
+Put together:Dát dohromady
+Put up:Postavit
+Put up with:Smířit se s
+Qualification:Kvalifikace
+Qualified:Kvalifikovaný
+Qualify:Kvalifikovat
+Quality:Kvalitní
+Quantity:Množství
+Quarter:Čtvrt
+Queen:Královna
+Question:Otázka
+Quick:Rychlý
+Quickly:Rychle
+Quiet:Klid
+Quietly:Tiše
+Quit:Přestat
+Quite:Docela
+Quote:Citát
+Race:Závod
+Racing:Závodění
+Radio:Rádio
+Rail:Kolejnice
+Railroad:Železniční trať
+Railway:Železnice
+Rain:Déšť
+Raise:Zvednout
+Range:Rozsah
+Rank:Hodnost
+Rapid:Rychlý
+Rapidly:Rychle
+Rare:Vzácný
+Rarely:Zřídka
+Rate:Hodnotit
+Rather:Spíše
+Raw:Syrový
+Reach:Dosáhnout
+React:Reagovat
+Reaction:Reakce
+Read:Číst
+Reader:Čtenář
+Reading:Čtení
+Read out:Číst
+Read over:Pročíst
+Ready:Připraven
+Real:Opravdový
+Realistic:Realistický
+Reality:Realita
+Realize:Realizovat
+Really:Opravdu
+Rear:Zadní
+Reason:Důvod
+Reasonable:Rozumný
+Reasonably:Rozumně
+Recall:Vzpomenout si
+Receipt:Účtenka
+Receive:Dostat
+Recent:Nedávno
+Recently:Nedávno
+Reception:Recepce
+Reckon:Počítat
+Reckon on:Počítat s
+Recognition:Uznání
+Recognize:Poznat
+Recommend:Doporučit
+Record:Záznam
+Recording:Záznam
+Recover:Uzdravit se
+Red:Červená
+Reduce:Snížit
+Reduction:Redukce
+Refer:Odkazovat se
+Reference:Odkaz
+Refer to:Odkazovat se na
+Reflect:Odrážet
+Reform:Reforma
+Refrigerator:Lednička
+Refusal:Zamítnutí
+Refuse:Odmítnout
+Regard:Považovat
+Regarding:Ohledně
+Region:Kraj
+Regional:Regionální
+Register:Registrovat
+Regret:Litovat
+Regular:Pravidelný
+Regularly:Pravidelně
+Regulation:Nařízení
+Reject:Odmítnout
+Relate:Týkat se
+Related:Příbuzný
+Relate to:Vztahovat k
+Relation:Vztahy
+Relationship:Vztah
+Relative:Relativní
+Relatively:Poměrně
+Relax:Odpočinout si
+Relaxed:Uvolněný
+Relaxing:Relaxační
+Release:Uvolnění
+Relevant:Relevantní
+Relief:Úleva
+Religion:Náboženství
+Religious:Náboženský
+Rely:Spolehnout se
+Rely on:Spolehnout se na
+Remain:Zůstat
+Remaining:Zbývající
+Remains:Zbytky
+Remark:Poznámka
+Remarkable:Pozoruhodný
+Remarkably:Pozoruhodně
+Remember:Pamatovat
+Remind:Připomenout
+Remind of:Připomínat
+Remote:Dálkový
+Removal:Odstranění
+Remove:Odstranit
+Rent:Pronajmout si
+Rented:Pronajato
+Repair:Opravit
+Repeat:Opakovat
+Repeated:Opakovat
+Repeatedly:Opakovaně
+Replace:Nahradit
+Reply:Odpovědět
+Report:Zpráva
+Represent:Zastupovat
+Representative:Zástupce
+Reproduce:Reprodukovat
+Reputation:Pověst
+Request:Žádost
+Require:Vyžadovat
+Requirement:Požadavek
+Rescue:Zachránit
+Research:Výzkum
+Reservation:Rezervace
+Reserve:Rezervovat
+Resident:Rezident
+Resist:Odolat
+Resistance:Odpor
+Resolve:Vyřešit
+Resort:Použít
+Resort to:Uchýlit se k
+Resource:Zdroje
+Respect:Respekt
+Respond:Reagovat
+Response:Odezva
+Responsibility:Odpovědnost
+Responsible:Odpovědný
+Rest:Odpočinek
+Restaurant:Restaurace
+Restore:Obnovit
+Restrict:Omezit
+Restricted:Omezený
+Restriction:Omezení
+Result:Výsledek
+Result in:Vést k
+Retain:Zachovat
+Retire:Odejít
+Retired:Odejít do důchodu
+Retirement:Odchod do důchodu
+Return:Vrátit se
+Reveal:Odhalit
+Reverse:Zvrátit
+Review:Posouzení
+Revise:Revidovat
+Revision:Revize
+Revolution:Revoluce
+Reward:Odměna
+Rhythm:Rytmus
+Rice:Rýže
+Rich:Bohatý
+Rid:Zbavit
+Ride:Jezdit
+Rider:Jezdec
+Ridiculous:Směšný
+Riding:Jezdectví
+Right:Správný
+Rightly:Správně
+Ring:Kruh
+Ring back:Zavolat zpátky
+Rise:Stoupat
+Risk:Riziko
+Rival:Soupeř
+River:Řeka
+Road:Silnice
+Rob:Okrást
+Rock:Skála
+Role:Funkce
+Roll:Kutálet se
+Romantic:Romantický
+Roof:Střecha
+Room:Pokoj, místnost
+Root:Kořen
+Rope:Lano
+Rough:Hrubý
+Roughly:Zhruba
+Round:Kolo
+Rounded:Zakulacený
+Route:Trasa
+Routine:Rutinní
+Row:Řádek
+Royal:Královský
+Rub:Třít
+Rubber:Guma
+Rubbish:Odpadky
+Rude:Hrubý
+Rudely:Hrubě
+Ruin:Zřícenina
+Ruined:Zničený
+Rule:Pravidlo
+Rule out:Vyloučit
+Ruler:Pravítko
+Rumour:Pověst
+Run:Běžet
+Run after:Honit se za
+Run away:Utéct
+Runner:Běžec
+Running:Běh
+Run out:Dojít
+Run over:Přejet
+Run through:Proběhnout
+Rural:Venkovský
+Rush:Spěch
+Sack:Pytel
+Sad:Smutný
+Sadly:Smutně
+Sadness:Smutek
+Safe:Bezpečný
+Safely:Bezpečně
+Safety:Bezpečnost
+Sail:Plavba, Plachta
+Sailing:Plachtění
+Sailor:Námořník
+Salad:Salát
+Salary:Plat
+Sale:Prodej
+Salt:Sůl
+Salty:Slaný
+Same:Stejný
+Sample:Vzorek
+Sand:Písek
+Satisfaction:Spokojenost
+Satisfied:Spokojený
+Satisfy:Uspokojit
+Satisfying:Uspokojující
+Saturday:Sobota
+Sauce:Omáčka
+Save:Uložit
+Saving:Úspora
+Say:Říci
+Scale:Měřítko
+Scare:Vyděsit
+Scared:Vyděšený
+Scare off:Odradit
+Scene:Scéna
+Schedule:Rozvrh
+Scheme:Plán
+School:Škola
+Science:Věda
+Scientific:Vědecký
+Scientist:Vědec
+Scissors:Nůžky
+Score:Skóre
+Scratch:Poškrábat
+Scream:Výkřik
+Screen:Obrazovka
+Screw:Šroub
+Sea:Moře
+Seal:Zalepit
+Seal off:Uzavřít
+Search:Hledat
+Season:Sezóna
+Seat:Sedadlo
+Second:Druhý
+Secondary:Druhotný
+Secret:Tajný
+Secretary:Sekretářka
+Secretly:Tajně
+Section:Sekce
+Sector:Sektor
+Secure:Zajistit
+Security:Bezpečnostní
+See:Vidět
+See about:Postarat se o
+Seed:Semínko
+Seek:Hledat
+Seem:Zdát se
+See to:Dohlédnout na
+Select:Vybrat
+Selection:Výběr
+Self:Já
+Sell:Prodat
+Sell off:Rozprodat
+Sell out:Vyprodat
+Senate:Senát
+Senator:Senátor
+Send:Poslat
+Send for:Poslat pro
+Send off:Odeslat
+Senior:Starší
+Sense:Smysl
+Sensible:Rozumný
+Sensitive:Citlivý
+Sentence:Věta
+Separate:Samostatný
+Separated:Oddělený
+Separately:Odděleně
+Separation:Rozdělení
+September:Září
+Series:Série
+Serious:Vážný
+Seriously:Vážně
+Servant:Sluha
+Serve:Sloužit
+Service:Servis
+Session:Schůze
+Set:Nastavit
+Set off:Vydat se na cestu
+Set out:Vyrazit na cestu
+Settle:Usadit
+Settle down:Usadit se
+Set up:Založit
+Seven:Sedm
+Seventeen:Sedmnáct
+Seventh:Sedmý
+Seventieth:Sedmdesátý
+Seventy:Sedmdesát
+Several:Několik
+Severe:Závažné
+Severely:Vážně
+Sew:Šít
+Sewing:Šití
+Sex:Pohlaví
+Sexual:Sexuální
+Sexually:Sexuálně
+Shade:Odstín
+Shadow:Stín
+Shake:Třást
+Shall:Musí
+Shallow:Mělký
+Shame:Ostuda
+Shape:Tvar
+Shaped:Tvarovaný
+Share:Podíl
+Sharp:Ostrý
+Sharply:Ostře
+Shave:Holit
+She:Ona
+Sheep:Ovce
+Sheet:List
+Shelf:Police
+Shell:Mušle
+Shelter:Přístřeší
+Shift:Posunout
+Shine:Lesk
+Shiny:Lesklý
+Ship:Loď
+Shirt:Košile
+Shock:Šokovat
+Shocked:Šokovaný
+Shocking:Šokující
+Shoe:Boty
+Shoot:Střílet
+Shoot down:Sestřelit
+Shooting:Natáčení
+Shop:Prodejna
+Shopping:Nakupování
+Short:Krátký
+Shortly:Krátce
+Shot:Výstřel
+Should:Měl by
+Shoulder:Rameno
+Shout:Křičet
+Show:Ukázat
+Shower:Sprcha
+Show off:Předvádět se
+Show round:Provést
+Show up:Ukázat
+Shut:Zavřít
+Shut down:Skončit
+Shut in:Zavřít
+Shut out:Nevpustit dovnitř
+Shut up:Zmlknout
+Shy:Plachý
+Sick:Nemocný
+Side:Boční
+Sideways:Bokem
+Sight:Pohled
+Sign:Podepsat
+Signal:Signál
+Signature:Podpis
+Significant:Významný
+Significantly:Významně
+Silence:Ticho
+Silent:Tichý
+Silk:Hedvábí
+Silly:Hloupý
+Silver:Stříbrný
+Similar:Podobný
+Similarly:Podobně
+Simple:Jednoduchý
+Simply:Jednoduše
+Since:Od té doby
+Sincere:Upřímný
+Sincerely:Upřímně, S pozdravem
+Sing:Zpívat
+Singer:Zpěvák
+Singing:Zpěv
+Single:Jediný
+Sink:Dřez
+Sir:Pan (uctivé oslovení)
+Sister:Sestra
+Sit:Sedět
+Sit down:Sednout si
+Site:Místo
+Situation:Situace
+Six:Šest
+Sixteen:Šestnáct
+Sixth:Šestý
+Sixtieth:Šedesátý
+Sixty:Šedesát
+Size:Velikost
+Skilful:Šikovný
+Skilfully:Dovedně
+Skill:Dovednost
+Skilled:Kvalifikovaný
+Skin:Kůže
+Skirt:Sukně
+Sky:Nebe
+Sleep:Spát
+Sleeve:Rukáv
+Slice:Plátek
+Slide:Klouzat se
+Slight:Mírný
+Slightly:Mírně
+Slip:Uklouznout
+Slope:Svah
+Slow:Pomalý
+Slowly:Pomalu
+Small:Malý
+Smart:Chytrý
+Smash:Rozbít
+Smell:Čich
+Smile:Usmát se
+Smoke:Kouř
+Smoking:Kouření
+Smooth:Hladký
+Smoothly:Hladce
+Snake:Had
+Snow:Sníh
+So:Tak
+Soap:Mýdlo
+Social:Sociální
+Socially:Sociálně
+Society:Společnost
+Sock:Ponožka
+Soft:Měkký
+Softly:Měkce
+Soil:Půda
+Soldier:Voják
+Solid:Pevný
+Solution:Řešení
+Solve:Řešit
+Some:Nějaký
+Somebody:Někdo
+Somehow:Nějak
+Someone:Někdo
+Something:Něco
+Sometimes:Někdy
+Somewhat:Trochu
+Somewhere:Někde
+Son:Syn
+Song:Píseň
+Soon:Brzo
+Sore:Bolavý
+Sorry:Promiňte
+Sort:Třídit
+Sort out:Roztřídit
+Soul:Duše
+Sound:Zvuk
+Soup:Polévka
+Sour:Kyselý
+Source:Zdroj
+South:Jih
+Southern:Jižní
+Space:Prostor
+Spare:Náhradní
+Speak:Mluvit
+Speaker:Mluvčí
+Speak out:Promluvit
+Speak up:Ozvat se
+Special:Speciální
+Specialist:Specialista
+Specially:Speciálně
+Specific:Charakteristický
+Specifically:Konkrétně
+Speech:Mluvený projev
+Speed:Rychlost
+Speed up:Zrychlit
+Spell:Hláskovat
+Spelling:Pravopis
+Spend:Strávit
+Spice:Koření
+Spicy:Pikantní
+Spider:Pavouk
+Spin:Roztočit
+Spirit:Duch
+Spiritual:Duchovní
+Spite:Přestože
+Split:Rozdělit
+Split up:Rozejít se
+Spoil:Zkazit
+Spoken:Mluvený
+Spoon:Lžíce
+Spot:Bod
+Spray:Sprej
+Spread:Rozprostřít
+Spread out:Rozšířit
+Spring:Jaro
+Square:Náměstí
+Squeeze:Sevření
+Stable:Stabilní
+Staff:Personál
+Stage:Fáze
+Stair:Schodiště
+Stamp:Razítko
+Stand:Stát
+Standard:Kritérium
+Stand back:Odstoupit
+Stand by:Čekat
+Stand for:Znamenat
+Stand out:Vyčnívat
+Stand up:Postavit se
+Stand up for:Zastat se
+Star:Hvězda
+Stare:Zírat
+Start:Začít
+Start off:Odstartovat
+Start out:Začít
+Start up:Založit
+State:Stát
+Statement:Prohlášení
+Station:Stanice
+Statue:Socha
+Status:Postavení
+Stay:Zůstat
+Stay away:Nepřibližovat se
+Stay out of:Vyhnout se
+Steadily:Stále
+Steady:Stálý
+Steal:Ukrást
+Steam:Pára
+Steel:Ocel
+Steep:Strmý
+Steeply:Prudce
+Steer:Řídit
+Step:Krok
+Stick:Lepit
+Stick out:Vystrčit
+Stick to:Držet se
+Stick up:Vyčnívat
+Sticky:Lepkavý
+Stiff:Tuhý
+Stiffly:Tvrdě
+Still:Stále
+Sting:Bodnutí
+Stir:Míchat
+Stock:Zásoby, Sklad
+Stomach:Žaludek
+Stone:Kámen
+Stop:Přestat
+Store:Obchod
+Storm:Bouřka
+Story:Příběh
+Stove:Kamna
+Straight:Rovný
+Strain:Napětí, Námaha
+Strange:Podivný
+Strangely:Podivně
+Stranger:Cizinec
+Strategy:Strategie
+Stream:Proud
+Street:Ulice
+Strength:Síla
+Stress:Stres
+Stressed:Vystresovaný
+Stretch:Protáhnout se
+Strict:Přísný
+Strictly:Přísně
+Strike:Stávka
+Striking:Výrazný
+String:Řetěz
+Strip:Pás
+Stripe:Proužek
+Striped:Pruhovaný
+Stroke:Mrtvice
+Strong:Silný
+Strongly:Silně
+Structure:Struktura
+Struggle:Usilovat, Bojovat
+Studio:Ateliér
+Study:Studovat
+Stuff:Věci
+Stupid:Hloupý
+Style:Styl
+Subject:Předmět
+Substance:Látka
+Substantial:Podstatné
+Substantially:Podstatně
+Substitute:Náhradní
+Succeed:Povést se
+Success:Úspěch
+Successful:Úspěšný
+Successfully:Úspěšně
+Such:Takový
+Suck:Sát
+Sudden:Náhlý
+Suddenly:Najednou
+Suffer:Trpět
+Suffering:Utrpení
+Sufficient:Dostatečný
+Sufficiently:Dostatečně
+Sugar:Cukr
+Suggest:Navrhnout
+Suggestion:Návrh
+Suit:Oblek
+Suitable:Vhodný
+Suitcase:Kufr
+Suited:Vhodný
+Sum:Součet
+Summary:Souhrn
+Summer:Léto
+Sum up:Shrnout
+Sun:Slunce
+Sunday:Neděle
+Superior:Nadřízený
+Supply:Zásobování
+Support:Podpora
+Supporter:Příznivce
+Suppose:Předpokládat
+Sure:Jistý
+Surely:Jistě
+Surface:Povrch
+Surname:Příjmení
+Surprise:Překvapení
+Surprised:Překvapený
+Surprising:Překvapující
+Surprisingly:Překvapivě
+Surround:Obklopit
+Surrounding:Okolní
+Surroundings:Okolí
+Survey:Průzkum
+Survive:Přežít
+Suspect:Tušit
+Suspicion:Podezření
+Suspicious:Podezřelý
+Swallow:Polykat
+Swear:Přísahat
+Swearing:Nadávání
+Sweat:Potit se
+Sweater:Svetr
+Sweep:Zametat
+Sweet:Sladký
+Swell:Napuchnout
+Swelling:Otok
+Swim:Plavat
+Swimming:Plavání
+Swimming pool:Plavecký bazén
+Swing:Houpačka
+Switch:Přepínač
+Switch off:Vypnout
+Swollen:Oteklý
+Symbol:Značka
+Sympathetic:Soucitný
+Sympathy:Sympatie
+System:Systém
+Table:Stůl
+Tablet:Tableta
+Tackle:Řešit
+Tail:Ocas
+Take:Vzít
+Take away:Odnést
+Take back:Vrátit
+Take down:Sundat
+Take in:Přijmout
+Take off:Vzlétnout
+Take on:Vzít si
+Take over:Převzít
+Take up:Začít
+Talk:Mluvit
+Tall:Vysoký
+Tank:Nádrž
+Tap:Kohoutek, Klepat
+Tape:Páska
+Target:Terč, Cíl
+Task:Úkol
+Taste:Chuť
+Tax:Daň
+Tea:Čaj
+Teach:Učit
+Teacher:Učitel
+Teaching:Výuka
+Team:Tým
+Tear:Slza
+Tear up:Roztrhat
+Technical:Technický
+Technique:Technika
+Technology:Technologie
+Telephone:Telefon
+Television:Televize
+Tell:Sdělit
+Tell off:Vynadat
+Temperature:Teplota
+Temporarily:Dočasně
+Temporary:Dočasný
+Ten:Deset
+Tend:Mít tendenci
+Tendency:Tendence
+Tension:Napětí
+Tent:Stan
+Tenth:Desátý
+Term:Období
+Terrible:Hrozný
+Terribly:Strašně
+Than:Než
+Thank:Poděkovat
+Thanks:Díky
+Thank you:Děkuji
+That:Že
+Theatre:Divadlo
+Their:Jejich
+Theirs:Jejich
+Them:Jim
+Theme:Téma
+Themselves:Oni sami
+Then:Pak
+Theory:Teorie
+There:Tam
+Therefore:Proto
+They:Oni
+Thick:Tlustý
+Thickly:Hustě
+Thickness:Tloušťka
+Thief:Zloděj
+Thin:Tenký
+Thing:Věc
+Think:Myslet si
+Think about:Přemýšlet o
+Thinking:Myšlení
+Think of:Myslet na
+Think over:Promyslet
+Think up:Vymyslet
+Third:Třetí
+Thirsty:Žíznivý
+Thirteen:Třináct
+Thirteenth:Třináctý
+Thirtieth:Třicátý
+Thirty:Třicet
+This:Tento
+Thorough:Důkladný
+Thoroughly:Důkladně
+Though:Ačkoli
+Thought:Myšlenka
+Thousand:Tisíc
+Thousandth:Tisící
+Thread:Vlákno
+Threat:Ohrožení
+Threaten:Hrozit
+Threatening:Hrozivý
+Three:Tři
+Throat:Hrdlo
+Through:Přes
+Throughout:Po celou dobu
+Throw:Hodit
+Throw away:Zahodit
+Throw out:Vyhodit
+Thumb:Palec
+Thursday:Čtvrtek
+Thus:Tudíž
+Ticket:Lístek
+Tidy:Uklidit
+Tie:Kravata
+Tie up:Zavázat
+Tight:Těsný
+Tightly:Těsně
+Till:Až do
+Time:Čas
+Timetable:Rozvrh
+Tin:Cín, Plechovka
+Tiny:Drobný
+Tip:Spropitné
+Tip over:Převrhnout
+Tire:Pneumatika
+Tired:Unavený
+Tire out:Vyčerpat
+Tiring:Únavný
+Title:Titul
+To:K
+Today:Dnes
+Toe:Prst
+Together:Spolu
+Toilet:Toaleta
+Tomato:Rajče
+Tomorrow:Zítra
+Ton:Tuna
+Tone:Tón
+Tongue:Jazyk
+Tonight:Dnes večer
+Tonne:Tuna
+Too:Také
+Tool:Nástroj
+Tooth:Zub
+Top:Horní
+Topic:Téma
+Total:Celkový
+Totally:Naprosto
+Touch:Dotek
+Tough:Těžké
+Tour:Prohlídka
+Tourist:Turista
+Towards:Vůči
+Towel:Ručník
+Tower:Věž
+Town:Město
+Toy:Hračka
+Trace:Stopa
+Track:Dráha
+Trade:Obchod
+Trading:Obchodování
+Tradition:Tradice
+Traditional:Tradiční
+Traditionally:Tradičně
+Traffic:Provoz
+Train:Vlak
+Training:Výcvik
+Transfer:Převod
+Transform:Přeměnit
+Translate:Přeložit
+Translation:Překlad
+Transparent:Průhledný
+Transport:Dopravit
+Transportation:Přeprava
+Trap:Past
+Travel:Cestovat
+Traveller:Cestovatel
+Treat:Zacházet
+Treatment:Léčba
+Tree:Strom
+Trend:Směr vývoje
+Trial:Soud
+Triangle:Trojúhelník
+Trick:Trik
+Trip:Výlet
+Tropical:Tropický
+Trouble:Problém
+Trousers:Kalhoty
+Truck:Nákladní automobil
+True:Skutečný
+Truly:Opravdu
+Trust:Důvěra
+Truth:Pravda
+Try:Snažit se
+Try on:Vyzkoušet si
+Try out:Otestovat
+Tube:Trubka
+Tuesday:Úterý
+Tune:Naladit
+Tunnel:Tunel
+Turn:Otočit se
+Turn back:Otočit se
+Turn down:Zeslabit
+Turn into:Změnit se v
+Turn off:Vypnout
+Turn on:Zapnout
+Turn out:Dopadnout
+Turn over:Obrátit
+Turn round:Otočit se
+Turn to:Obrátit se na
+Turn up:Zesílit
+Tv:Televize
+Twelfth:Dvanáctý
+Twelve:Dvanáct
+Twentieth:Dvacátý
+Twenty:Dvacet
+Twice:Dvakrát
+Twin:Dvojče
+Twist:Kroutit
+Twisted:Zkroucený
+Two:Dva
+Type:Typ
+Typical:Typický
+Typically:Typicky
+Tyre:Pneumatika
+Ugly:Škaredý
+Ultimate:Konečný
+Ultimately:Nakonec
+Umbrella:Deštník
+Unable:Neschopný
+Unacceptable:Nepřijatelný
+Uncertain:Nejistý
+Uncle:Strýc
+Uncomfortable:Nepříjemný
+Unconscious:V bezvědomí
+Uncontrolled:Nekontrolovaný
+Under:Pod
+Underground:Podzemí
+Underneath:Pod
+Understand:Rozumět
+Understanding:Porozumění
+Underwater:Pod vodou
+Underwear:Spodní prádlo
+Undo:Vrátit
+Unemployed:Nezaměstnaný
+Unemployment:Nezaměstnanost
+Unexpected:Nečekaný
+Unexpectedly:Nečekaně
+Unfair:Nespravedlivý
+Unfairly:Nespravedlivě
+Unfortunate:Nešťastný
+Unfortunately:Bohužel
+Unfriendly:Nepřátelský
+Unhappy:Nešťastný
+Uniform:Jednotný
+Unimportant:Nedůležitý
+Union:Svaz
+Unique:Unikátní
+Unit:Jednotka
+Unite:Sjednotit
+United:Sjednocený
+Universe:Vesmír
+University:Univerzita
+Unkind:Nepříjemný
+Unknown:Neznámý
+Unless:Pokud ne
+Unlike:Na rozdíl od
+Unlikely:Nepravděpodobný
+Unload:Vyložit
+Unlucky:Nešťastný
+Unnecessary:Zbytečný
+Unpleasant:Nepříjemný
+Unreasonable:Nerozumný
+Unsteady:Nestabilní
+Unsuccessful:Neúspěšný
+Untidy:Neuklizený
+Until:Až do
+Unusual:Neobvyklý
+Unusually:Neobvykle
+Unwilling:Neochotný
+Unwillingly:Nedobrovolně
+Up:Nahoru
+Upon:Na
+Upper:Horní
+Upset:Smutný
+Upsetting:Rozčilující
+Upside down:Vzhůru nohama
+Upstairs:Nahoru po schodech
+Upward:Vzestupný
+Upwards:Nahoru
+Urban:Městský
+Urge:Naléhat
+Urgent:Naléhavé
+Us:Nás
+Use:Použít
+Used:Použitý
+Used to:Bývalo
+Useful:Užitečný
+Useless:Zbytečný
+User:Uživatel
+Use up:Spotřebovat
+Usual:Obvyklý
+Usually:Obvykle
+Vacation:Dovolená
+Valid:Platný
+Valley:Údolí
+Valuable:Cenný
+Value:Hodnota
+Van:Dodávka
+Variation:Změna
+Varied:Pestrý
+Variety:Odrůda
+Various:Rozličný
+Vary:Lišit se
+Vast:Obrovský
+Vegetable:Zelenina
+Vehicle:Vozidlo
+Venture:Odvážit se
+Version:Verze
+Vertical:Vertikální
+Very:Velmi
+Via:Přes
+Victim:Oběť
+Victory:Vítězství
+View:Pohled
+Village:Vesnice
+Violence:Násilí
+Violent:Násilný
+Violently:Násilně
+Virtually:Prakticky
+Visible:Viditelný
+Vision:Vidění
+Visit:Navštívit
+Visitor:Návštěvník
+Vital:Vitální
+Vocabulary:Slovní zásoba
+Voice:Hlas
+Volume:Hlasitost
+Vote:Hlasování
+Wage:Mzda
+Waist:Pás
+Wait:Počkat
+Waiter:Číšník
+Wake:Probudit
+Walk:Jít pěšky
+Walking:Chůze
+Walk out:Odejít
+Walk up:Přistoupit
+Wall:Stěna
+Wallet:Peněženka
+Wander:Toulat se
+Want:Chtít
+War:Válka
+Warm:Teplý
+Warmth:Teplo
+Warm up:Zahřát
+Warn:Varovat
+Warning:Varování
+Wash:Umýt
+Wash away:Spláchnout
+Washing:Mytí
+Wash off:Smýt
+Wash out:Vypláchnout
+Wash up:Mýt nádobí
+Waste:Plýtvat
+Watch:Sledovat, Hodinky
+Watch out:Dávat pozor
+Watch out for:Dávat pozor na
+Water:Voda
+Wave:Vlna
+Way:Cesta
+We:My
+Weak:Slabý
+Weakness:Slabost
+Wealth:Bohatství
+Weapon:Zbraň
+Wear:Mít na sobě
+Wear away:Opotřebovat
+Wear off:Odřít se
+Wear out:Opotřebovat
+Weather:Počasí
+Web:Pavučina, Síť
+Website:Webová stránka
+Wedding:Svatba
+Wednesday:Středa
+Week:Týden
+Weekend:Víkend
+Weekly:Týdně
+Weigh:Vážit
+Weight:Hmotnost
+Welcome:Uvítání
+Well:Dobře
+Well known:Dobře známý
+West:Západ
+Western:Západní
+Wet:Mokrý
+What:Co
+Whatever:Cokoli
+Wheel:Kolo
+When:Když
+Whenever:Kdykoli
+Where:Kde
+Whereas:Zatímco
+Wherever:Kdekoli
+Whether:Zda
+Which:Který
+While:Zatímco
+Whisper:Šeptat
+Whistle:Pískat
+White:Bílý
+Who:Kdo
+Whoever:Kdokoliv
+Whole:Celý
+Whom:Koho
+Whose:Jehož
+Why:Proč
+Wide:Široký
+Widely:Široce
+Width:Šířka
+Wife:Manželka
+Wild:Divoký
+Wildly:Divoce
+Will:Vůle
+Willing:Ochotný
+Willingly:Ochotně
+Willingness:Ochota
+Win:Vyhrát
+Wind:Vítr
+Window:Okno
+Wine:Víno
+Wing:Křídlo
+Winner:Vítěz
+Winning:Vítězný
+Winter:Zima
+Wire:Drát
+Wise:Moudrý
+Wish:Přání
+With:S
+Withdraw:Stáhnout
+Within:V rámci
+Without:Bez
+Witness:Svědek
+Woman:Žena
+Wonder:Divit se
+Wonderful:Báječné
+Wood:Dřevo
+Wooden:Dřevěný
+Wool:Vlna
+Word:Slovo
+Work:Práce
+Worker:Pracovník
+Working:Pracovní
+Work out:Cvičení
+World:Svět
+Worried:Ustaraný
+Worry:Trápit se
+Worrying:Znepokojující
+Worse:Horší
+Worship:Uctívání
+Worst:Nejhorší
+Worth:Hodnota
+Would:Bych
+Wound:Rána
+Wounded:Zraněný
+Wrap:Zabalit
+Wrapping:Obal
+Wrist:Zápěstí
+Write:Napsat
+Write back:Odepsat
+Write down:Zapsat
+Writer:Spisovatel
+Writing:Psaní
+Written:Psaný
+Wrong:Špatně
+Wrongly:Nesprávně
+Yard:Dvůr
+Yawn:Zívnutí
+Yeah:To jo
+Year:Rok
+Yellow:Žlutý
+Yes:Ano
+Yesterday:Včera
+Yet:Dosud
+You:Vy
+Young:Mladý
+Your:Tvůj, Váš
+Yours:Tvůj, Váš
+Yourself:Ty/Vy sám
+Youth:Mládí
+Zero:Nula
+Zone:Pásmo
