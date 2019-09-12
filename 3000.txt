@@ -584,7 +584,6 @@ Claim:Pohledávka
 Clap:Tleskat
 Class:Třída
 Classic:Klasický
-Classroom:Třída
 Clean:Čistý
 Clean up:Uklidit
 Clear:Jasný
@@ -918,7 +917,6 @@ Detail:Podrobnost
 Detailed:Podrobný
 Determination:Určení
 Determine:Určit
-Determined:Určeno
 Develop:Rozvíjet
 Development:Rozvoj
 Device:Přístroj
@@ -2756,8 +2754,6 @@ Rent:Pronajmout si
 Rented:Pronajato
 Repair:Opravit
 Repeat:Opakovat
-Repeated:Opakovat
-Repeatedly:Opakovaně
 Replace:Nahradit
 Reply:Odpovědět
 Report:Zpráva
@@ -3408,7 +3404,6 @@ Threatening:Hrozivý
 Three:Tři
 Throat:Hrdlo
 Through:Přes
-Throughout:Po celou dobu
 Throw:Hodit
 Throw away:Zahodit
 Throw out:Vyhodit
