@@ -111,6 +111,8 @@ $t->process('about.html',
 
 my @files = (
 	'slovicka.css',
+	'slovickadark.css',
+	'theme.js',
 	'slovicka.js',
 );
 
