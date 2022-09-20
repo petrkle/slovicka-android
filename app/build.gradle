@@ -20,11 +20,11 @@ android {
 }
 
 android {
-    compileSdkVersion 29
+    compileSdkVersion 33 
     defaultConfig {
         applicationId "cz.kle.slovicka"
         minSdkVersion 21
-        targetSdkVersion 29
+        targetSdkVersion 33
         versionCode gitVersionCode
         versionName "${gitVersionName}"
 				setProperty("archivesBaseName", "Slovicka-$versionName")
@@ -43,7 +43,7 @@ android {
 
 dependencies {
     implementation fileTree(dir: 'libs', include: ['*.jar'])
-    implementation 'androidx.appcompat:appcompat:1.2.0'
+    implementation 'androidx.appcompat:appcompat:1.5.1'
 }
 
 task generate(type: Exec, dependsOn: ['generateIcons']) {

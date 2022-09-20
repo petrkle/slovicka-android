@@ -30,6 +30,7 @@
 	android:name="Slovicka"
 	android:windowSoftInputMode="adjustResize"
 	android:theme="@style/Slovicka"
+	android:exported="true"
 >
 
 <intent-filter android:label="@string/app_name">
