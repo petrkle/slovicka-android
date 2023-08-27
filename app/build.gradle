@@ -21,6 +21,7 @@ android {
 
 android {
     compileSdkVersion 33
+    namespace "cz.kle.slovicka"
     defaultConfig {
         applicationId "cz.kle.slovicka"
         minSdkVersion 21
