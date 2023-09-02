@@ -4,16 +4,16 @@
 knoflik = document.getElementById('theme');
 
 if (localStorage.getItem('dark') != null) {
-	knoflik.value = 'Světlý režim';
-	knoflik.onclick = function(event){
-		localStorage.removeItem('dark');
-		location.reload(true);
-	}
+  knoflik.value = 'Světlý režim';
+  knoflik.onclick = function(event){
+    localStorage.removeItem('dark');
+    location.reload(true);
+  }
 }else{
-	knoflik.value = 'Tmavý režim';
-	knoflik.onclick = function(event){
-		localStorage.setItem('dark', 1);
-		location.reload(true);
-	}
+  knoflik.value = 'Tmavý režim';
+  knoflik.onclick = function(event){
+    localStorage.setItem('dark', 1);
+    location.reload(true);
+  }
 }
 </script>
