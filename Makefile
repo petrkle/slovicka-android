@@ -27,4 +27,4 @@ update:
 	bundle update
 
 release:
-	fastlane deploy
+	bundle exec fastlane deploy
