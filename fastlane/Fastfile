@@ -4,6 +4,7 @@ platform :android do
   desc "Deploy a new version to the Google Play"
   lane :deploy do
     upload_to_play_store(
+     aab: './app/build/outputs/bundle/release/Slovicka-release.aab',
      track: 'production',
      track_promote_to: 'production',
      skip_upload_metadata: true,

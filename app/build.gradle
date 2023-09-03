@@ -28,7 +28,7 @@ android {
         targetSdkVersion 33
         versionCode gitVersionCode
         versionName "${gitVersionName}"
-        setProperty("archivesBaseName", "Slovicka-$versionName")
+        setProperty("archivesBaseName", "Slovicka")
     }
     signingConfigs {
         release
