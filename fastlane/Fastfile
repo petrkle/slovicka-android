@@ -3,12 +3,10 @@ default_platform(:android)
 platform :android do
   desc "Deploy a new version to the Google Play"
   lane :deploy do
+     skip_upload_changelogs: true,
     upload_to_play_store(
      aab: './app/build/outputs/bundle/release/Slovicka-release.aab',
-     track: 'production',
-     track_promote_to: 'production',
      skip_upload_metadata: true,
-     skip_upload_changelogs: true,
      skip_upload_images: true,
      skip_upload_screenshots: true,
      rollout: '1'
