@@ -5,7 +5,7 @@ help:
 	@echo "apk           - vytvori apk soubor"
 	@echo "bundle        - vytvoří bundle"
 	@echo "tag           - vytvori novy tag"
-	@echo "bundleupdate  - nainstaluje fastlane"
+	@echo "bundle        - nainstaluje fastlane"
 	@echo "release       - release do google play"
 	@echo "clean         - smaze generovane soubory"
 
