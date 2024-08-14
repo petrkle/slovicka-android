@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-<style name="Slovicka" parent="android:Theme.Light">
+<style name="Slovicka" parent="Theme.AppCompat.Light.NoActionBar">
     <item name="android:windowBackground">@color/slovicka_bg</item>
     <item name="android:colorBackground">@color/slovicka_header</item>
 </style>
