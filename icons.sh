@@ -15,6 +15,6 @@ do
   OUT="${RES}-${icon[$foo]}"
   ICO="ic_launcher"
   [ -d ${OUT} ] || mkdir -p ${OUT}
-  [ -f ${OUT}/${ICO}.png ] || convert -resize ${foo}x${foo} slovicka.png ${OUT}/${ICO}.png
+  [ -f ${OUT}/${ICO}.png ] || magick slovicka.png -resize ${foo}x${foo} ${OUT}/${ICO}.png
   [ -f ${OUT}/${ICO}_round.png ] || cp ${OUT}/${ICO}.png ${OUT}/${ICO}_round.png
 done
