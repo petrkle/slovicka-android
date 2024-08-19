@@ -28,7 +28,7 @@
   android:launchMode="singleTop"
   android:name="Slovicka"
   android:windowSoftInputMode="adjustResize"
-  android:theme="@style/Slovicka"
+  android:theme="@style/Theme.App.SplashScreen"
   android:exported="true"
 >
 
