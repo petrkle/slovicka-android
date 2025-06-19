@@ -20,12 +20,12 @@ android {
 }
 
 android {
-    compileSdkVersion 35
+    compileSdkVersion 36
     namespace = "cz.kle.slovicka"
     defaultConfig {
         applicationId "cz.kle.slovicka"
         minSdkVersion 24
-        targetSdkVersion 35
+        targetSdkVersion 36
         versionCode gitVersionCode
         versionName "${gitVersionName}"
     }
